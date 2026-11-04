@@ -21,18 +21,6 @@ Le projet suit quatre phases :
 
 Jeu de données public Kaggle : [Football Datasets](https://www.kaggle.com/datasets/xfkzujqjvx97n/football-datasets)
 
-## Structure du dépôt
-
-```
-football-key-person-insurance/
-├── data/
-│   ├── raw/            # données brutes Kaggle (non versionnées)
-│   └── processed/      # données nettoyées et fusionnées (non versionnées)
-├── notebooks/          # exploration et analyses
-├── src/                # fonctions réutilisables
-├── requirements.txt
-└── README.md
-```
 
 ## Installation
 
