@@ -3,7 +3,7 @@
 Mémoire de M1 — Majeure Actuariat, Université Paris-Dauphine – PSL (2026-2027)
 
 Construction et tarification d'un produit d'assurance personne clé protégeant les clubs de football professionnel contre la perte de valeur marchande de leurs joueurs en cas de blessure grave ou de décès.
-test
+
 ## Problématique
 
 > Comment construire et tarifer un produit d'assurance permettant de protéger les clubs de football professionnel contre la perte de valeur marchande de leurs joueurs à la suite d'une blessure grave ou d'un décès ?
