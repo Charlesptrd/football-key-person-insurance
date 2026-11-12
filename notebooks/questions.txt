@@ -1,3 +1,12 @@
 Demander si on doit faire le travail redactionnel en continue pour prendre le temps ou alors à la fin pour avoir une vue d'ensemble.
 
-Voir doublons dans players injuries 
+pour charles:c:\Users\dung9\OneDrive\Desktop\football-key-person-insurance\.venv\Lib\site-packages\tqdm\auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm ?
+
+erreur sur player profile: (je crois pas que j'ai modifié quoi que ce soit)
+
+Prochaine étape: effacer les doublons ?
+
+player_market_value	74.9 alors pourquoi j'obtiens 0 données manquantes
+
+je trouve pas competitions
