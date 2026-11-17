@@ -1,0 +1,1686 @@
+========================================================================================================================
+JOUEUR : Thibaut Courtois (ID 108390)
+========================================================================================================================
+
+Profil :
+ - player_id: 108390
+ - player_name: Thibaut Courtois
+ - player_slug: thibaut-courtois
+ - date_of_birth: 1992-05-11 00:00:00
+ - country_of_birth: Belgium
+ - height: 200.0
+ - is_eu: True
+ - main_position: Goalkeeper
+ - sub_position: Goalkeeper
+ - foot: left
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Belgium
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : Real Madrid (25/26)
+
+Dernière valeur marchande : 20000000.0 (date: 2025-06-08 00:00:00)
+
+Historique valeur marchande :
+ - 2018-07-15 00:00:00 : 65000000.0
+ - 2018-12-20 00:00:00 : 65000000.0
+ - 2019-06-10 00:00:00 : 55000000.0
+ - 2019-12-19 00:00:00 : 55000000.0
+ - 2020-03-04 00:00:00 : 60000000.0
+ - 2020-04-07 00:00:00 : 48000000.0
+ - 2020-07-22 00:00:00 : 60000000.0
+ - 2020-10-07 00:00:00 : 75000000.0
+ - 2021-01-04 00:00:00 : 75000000.0
+ - 2021-05-25 00:00:00 : 60000000.0
+ - 2021-12-29 00:00:00 : 65000000.0
+ - 2022-06-02 00:00:00 : 60000000.0
+ - 2022-11-06 00:00:00 : 60000000.0
+ - 2023-06-12 00:00:00 : 45000000.0
+ - 2023-12-21 00:00:00 : 35000000.0
+ - 2024-03-20 00:00:00 : 30000000.0
+ - 2024-06-06 00:00:00 : 28000000.0
+ - 2024-10-10 00:00:00 : 25000000.0
+ - 2024-12-26 00:00:00 : 25000000.0
+ - 2025-06-08 00:00:00 : 20000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: LaLiga | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 270.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 2
+ - season_name: 24/25 | competition_name: LaLiga | team_name: Real Madrid | goals: nan | assists: 1 | minutes_played: 2700.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 11
+ - season_name: 24/25 | competition_name: Copa del Rey | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 120.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 1110.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 1
+ - season_name: 24/25 | competition_name: Supercopa | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 180.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 1
+ - season_name: 24/25 | competition_name: FIFA Intercontinental Cup | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 1
+ - season_name: 24/25 | competition_name: UEFA Super Cup | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 1
+ - season_name: 23/24 | competition_name: Champions League | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 1
+ - season_name: 23/24 | competition_name: LaLiga | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 333.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 4
+ - season_name: 22/23 | competition_name: LaLiga | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 2790.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 10
+
+Performances internationales:
+ - team_id: 3382 | matches: 105 | goals: 0 | shirt_number: 1 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 1752.0 | debut_game_id: 1167293.0
+ - team_id: 16337 | matches: 4 | goals: 0 | shirt_number: 1 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 9544.0 | debut_game_id: 2803419.0
+
+Blessures:
+ - season_name: 24/25 | injury_reason: Back injury | from_date: 2025-06-01 00:00:00 | end_date: 2025-06-15 00:00:00 | days_missed: 15.0 | games_missed: 2
+ - season_name: 24/25 | injury_reason: Muscle injury | from_date: 2025-03-19 00:00:00 | end_date: 2025-04-04 00:00:00 | days_missed: 17.0 | games_missed: 4
+ - season_name: 24/25 | injury_reason: Achilles tendon problems | from_date: 2024-10-23 00:00:00 | end_date: 2024-11-23 00:00:00 | days_missed: 32.0 | games_missed: 5
+ - season_name: 24/25 | injury_reason: Adductor tear | from_date: 2024-09-30 00:00:00 | end_date: 2024-10-18 00:00:00 | days_missed: 19.0 | games_missed: 4
+ - season_name: 23/24 | injury_reason: Meniscus tear | from_date: 2024-04-01 00:00:00 | end_date: 2024-04-28 00:00:00 | days_missed: 28.0 | games_missed: 5
+ - season_name: 23/24 | injury_reason: Cruciate ligament tear | from_date: 2023-08-10 00:00:00 | end_date: 2024-03-31 00:00:00 | days_missed: 235.0 | games_missed: 50
+ - season_name: 22/23 | injury_reason: Adductor pain | from_date: 2023-03-26 00:00:00 | end_date: 2023-03-30 00:00:00 | days_missed: 5.0 | games_missed: 1
+ - season_name: 22/23 | injury_reason: Hamstring injury | from_date: 2023-02-06 00:00:00 | end_date: 2023-02-17 00:00:00 | days_missed: 12.0 | games_missed: 3
+ - season_name: 22/23 | injury_reason: Sciatica problems | from_date: 2022-09-29 00:00:00 | end_date: 2022-10-17 00:00:00 | days_missed: 19.0 | games_missed: 5
+ - season_name: 21/22 | injury_reason: Inflammation of pubic bone | from_date: 2022-05-30 00:00:00 | end_date: 2022-06-30 00:00:00 | days_missed: 32.0 | games_missed: 4
+
+Transferts:
+ - transfer_date: 2018-08-09 00:00:00 | from_team_name: Chelsea | to_team_name: Real Madrid | transfer_type: Transfer | value_at_transfer: 65000000 | transfer_fee: 35000000
+ - transfer_date: 2014-06-30 00:00:00 | from_team_name: Atlético Madrid | to_team_name: Chelsea | transfer_type: Return from loan | value_at_transfer: 25000000 | transfer_fee: 0
+ - transfer_date: 2011-07-27 00:00:00 | from_team_name: Chelsea | to_team_name: Atlético Madrid | transfer_type: Loan | value_at_transfer: 4000000 | transfer_fee: 0
+ - transfer_date: 2011-07-26 00:00:00 | from_team_name: KRC Genk | to_team_name: Chelsea | transfer_type: Transfer | value_at_transfer: 4000000 | transfer_fee: 8950000
+ - transfer_date: 2009-07-01 00:00:00 | from_team_name: KRC Genk U19 | to_team_name: KRC Genk | transfer_type: Transfer | value_at_transfer: 50000 | transfer_fee: 0
+ - transfer_date: 2008-07-01 00:00:00 | from_team_name: KRC Genk U17 | to_team_name: KRC Genk U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2007-07-01 00:00:00 | from_team_name: KRC Genk Youth | to_team_name: KRC Genk U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Paul Pogba (ID 122153)
+========================================================================================================================
+
+Profil :
+ - player_id: 122153
+ - player_name: Paul Pogba
+ - player_slug: paul-pogba
+ - date_of_birth: 1993-03-15 00:00:00
+ - country_of_birth: France
+ - height: 191.0
+ - is_eu: True
+ - main_position: Midfield
+ - sub_position: Central Midfield
+ - foot: both
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: France
+ - nationality_2: Guinea
+ - has_dual_nationality: True
+
+Club le plus récent : Juventus FC (23/24)
+
+Dernière valeur marchande : 5000000.0 (date: 2025-06-30 00:00:00)
+
+Historique valeur marchande :
+ - 2017-02-19 00:00:00 : 80000000.0
+ - 2017-06-27 00:00:00 : 75000000.0
+ - 2018-01-01 00:00:00 : 90000000.0
+ - 2018-05-27 00:00:00 : 90000000.0
+ - 2018-12-18 00:00:00 : 80000000.0
+ - 2019-03-04 00:00:00 : 90000000.0
+ - 2019-06-12 00:00:00 : 100000000.0
+ - 2019-12-09 00:00:00 : 100000000.0
+ - 2020-04-07 00:00:00 : 80000000.0
+ - 2020-10-12 00:00:00 : 80000000.0
+ - 2020-12-16 00:00:00 : 65000000.0
+ - 2021-03-17 00:00:00 : 60000000.0
+ - 2021-05-31 00:00:00 : 60000000.0
+ - 2021-12-22 00:00:00 : 55000000.0
+ - 2022-06-14 00:00:00 : 48000000.0
+ - 2022-11-10 00:00:00 : 35000000.0
+ - 2023-03-20 00:00:00 : 20000000.0
+ - 2023-06-14 00:00:00 : 15000000.0
+ - 2023-10-05 00:00:00 : 0.0
+ - 2025-06-30 00:00:00 : 5000000.0
+
+Performances club (10 dernières):
+ - season_name: 23/24 | competition_name: Serie A | team_name: Juventus FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Italy Cup | team_name: Juventus FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Serie A | team_name: Juventus FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Europa League | team_name: Juventus FC | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 21/22 | competition_name: Premier League | team_name: Manchester United | goals: 1.0 | assists: 9 | minutes_played: 1354.0 | yellow_cards: 7 | direct_red_cards: 1 | clean_sheets: 0
+ - season_name: 21/22 | competition_name: Champions League | team_name: Manchester United | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 21/22 | competition_name: FA Cup | team_name: Manchester United | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 20/21 | competition_name: Europa League | team_name: Manchester United | goals: 2.0 | assists: 1 | minutes_played: 217.0 | yellow_cards: 3 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 20/21 | competition_name: Premier League | team_name: Manchester United | goals: 3.0 | assists: 5 | minutes_played: 632.0 | yellow_cards: 3 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 20/21 | competition_name: FA Cup | team_name: Manchester United | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3377 | matches: 91 | goals: 11 | shirt_number: 6 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1229.0 | debut_game_id: 2262033.0
+ - team_id: 10831 | matches: 10 | goals: 2 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 14270.0 | debut_game_id: 3815757.0
+ - team_id: 10844 | matches: 17 | goals: 1 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: 2456474.0
+ - team_id: 23101 | matches: 12 | goals: 4 | shirt_number: 6 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1733.0 | debut_game_id: 1143750.0
+ - team_id: 23658 | matches: 13 | goals: 3 | shirt_number: 6 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 25250 | matches: 6 | goals: 1 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1733.0 | debut_game_id: 2809192.0
+
+Blessures:
+ - season_name: 23/24 | injury_reason: Muscle fatigue | from_date: 2023-09-03 00:00:00 | end_date: 2023-10-05 00:00:00 | days_missed: 33.0 | games_missed: 5
+ - season_name: 23/24 | injury_reason: unknown injury | from_date: 2023-07-12 00:00:00 | end_date: 2023-08-15 00:00:00 | days_missed: 35.0 | games_missed: 0
+ - season_name: 22/23 | injury_reason: Hamstring injury | from_date: 2023-05-14 00:00:00 | end_date: 2023-06-20 00:00:00 | days_missed: 38.0 | games_missed: 5
+ - season_name: 22/23 | injury_reason: Adductor injury | from_date: 2023-03-12 00:00:00 | end_date: 2023-04-11 00:00:00 | days_missed: 31.0 | games_missed: 6
+ - season_name: 22/23 | injury_reason: Groin strain | from_date: 2023-02-01 00:00:00 | end_date: 2023-02-27 00:00:00 | days_missed: 27.0 | games_missed: 6
+ - season_name: 22/23 | injury_reason: Hamstring strain | from_date: 2022-10-31 00:00:00 | end_date: 2023-01-18 00:00:00 | days_missed: 80.0 | games_missed: 7
+ - season_name: 22/23 | injury_reason: Knee surgery | from_date: 2022-09-05 00:00:00 | end_date: 2023-01-26 00:00:00 | days_missed: 144.0 | games_missed: 21
+ - season_name: 22/23 | injury_reason: Meniscus injury | from_date: 2022-07-25 00:00:00 | end_date: 2022-09-12 00:00:00 | days_missed: 50.0 | games_missed: 7
+ - season_name: 21/22 | injury_reason: Calf injury | from_date: 2022-04-18 00:00:00 | end_date: 2022-05-23 00:00:00 | days_missed: 36.0 | games_missed: 6
+ - season_name: 21/22 | injury_reason: Hamstring injury | from_date: 2021-11-08 00:00:00 | end_date: 2022-02-03 00:00:00 | days_missed: 88.0 | games_missed: 14
+
+Transferts:
+ - transfer_date: 2025-07-01 00:00:00 | from_team_name: Without Club | to_team_name: Monaco | transfer_type: Transfer | value_at_transfer: 5000000 | transfer_fee: 0
+ - transfer_date: 2024-12-01 00:00:00 | from_team_name: Juventus | to_team_name: Without Club | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2022-07-11 00:00:00 | from_team_name: Man Utd | to_team_name: Juventus | transfer_type: Transfer | value_at_transfer: 48000000 | transfer_fee: 0
+ - transfer_date: 2016-08-09 00:00:00 | from_team_name: Juventus | to_team_name: Man Utd | transfer_type: Transfer | value_at_transfer: 70000000 | transfer_fee: 105000000
+ - transfer_date: 2012-08-03 00:00:00 | from_team_name: Man Utd U21 | to_team_name: Juventus | transfer_type: Transfer | value_at_transfer: 3500000 | transfer_fee: 0
+ - transfer_date: 2011-07-01 00:00:00 | from_team_name: Man Utd U18 | to_team_name: Man Utd Res. | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2009-07-01 00:00:00 | from_team_name: Le Havre U17 | to_team_name: Man Utd U18 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2007-07-01 00:00:00 | from_team_name: US Torcy Yth. | to_team_name: Le Havre U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Virgil van Dijk (ID 139208)
+========================================================================================================================
+
+Profil :
+ - player_id: 139208
+ - player_name: Virgil van Dijk
+ - player_slug: virgil-van-dijk
+ - date_of_birth: 1991-07-08 00:00:00
+ - country_of_birth: Netherlands
+ - height: 195.0
+ - is_eu: True
+ - main_position: Defender
+ - sub_position: Centre-Back
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Netherlands
+ - nationality_2: Suriname
+ - has_dual_nationality: True
+
+Club le plus récent : Liverpool FC (25/26)
+
+Dernière valeur marchande : 23000000.0 (date: 2025-05-29 00:00:00)
+
+Historique valeur marchande :
+ - 2018-01-01 00:00:00 : 50000000.0
+ - 2018-05-27 00:00:00 : 50000000.0
+ - 2018-10-16 00:00:00 : 60000000.0
+ - 2018-12-18 00:00:00 : 75000000.0
+ - 2019-06-12 00:00:00 : 90000000.0
+ - 2019-09-11 00:00:00 : 100000000.0
+ - 2019-12-09 00:00:00 : 100000000.0
+ - 2020-04-07 00:00:00 : 80000000.0
+ - 2020-10-12 00:00:00 : 80000000.0
+ - 2021-03-17 00:00:00 : 70000000.0
+ - 2021-06-07 00:00:00 : 55000000.0
+ - 2021-12-22 00:00:00 : 55000000.0
+ - 2022-06-14 00:00:00 : 55000000.0
+ - 2022-11-02 00:00:00 : 50000000.0
+ - 2023-03-15 00:00:00 : 45000000.0
+ - 2023-06-19 00:00:00 : 35000000.0
+ - 2023-12-18 00:00:00 : 32000000.0
+ - 2024-05-26 00:00:00 : 30000000.0
+ - 2024-12-15 00:00:00 : 28000000.0
+ - 2025-05-29 00:00:00 : 23000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: Premier League | team_name: Liverpool FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 25/26 | competition_name: Community Shield | team_name: Liverpool FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Premier League | team_name: Liverpool FC | goals: 3.0 | assists: 1 | minutes_played: 1110.0 | yellow_cards: 5 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: EFL Cup | team_name: Liverpool FC | goals: 1.0 | assists: 0 | minutes_played: 267.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: Liverpool FC | goals: 1.0 | assists: 0 | minutes_played: 840.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Premier League | team_name: Liverpool FC | goals: 2.0 | assists: 2 | minutes_played: 1589.0 | yellow_cards: 3 | direct_red_cards: 1 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Europa League | team_name: Liverpool FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: FA Cup | team_name: Liverpool FC | goals: 1.0 | assists: 0 | minutes_played: 200.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: EFL Cup | team_name: Liverpool FC | goals: 1.0 | assists: 0 | minutes_played: 360.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Premier League | team_name: Liverpool FC | goals: 3.0 | assists: 1 | minutes_played: 945.0 | yellow_cards: 3 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3379 | matches: 84 | goals: 10 | shirt_number: 4 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 1870.0 | debut_game_id: 2429556.0
+ - team_id: 11944 | matches: 3 | goals: 0 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 839.0 | debut_game_id: 1136448.0
+ - team_id: 16341 | matches: 1 | goals: 0 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: 1167472.0
+
+Blessures:
+ - season_name: 24/25 | injury_reason: Rest | from_date: 2024-11-18 00:00:00 | end_date: 2024-11-20 00:00:00 | days_missed: 3.0 | games_missed: 1
+ - season_name: 23/24 | injury_reason: Ill | from_date: 2024-01-06 00:00:00 | end_date: 2024-01-09 00:00:00 | days_missed: 4.0 | games_missed: 1
+ - season_name: 22/23 | injury_reason: Hamstring injury | from_date: 2023-01-02 00:00:00 | end_date: 2023-02-12 00:00:00 | days_missed: 42.0 | games_missed: 7
+ - season_name: 21/22 | injury_reason: Rest | from_date: 2022-06-06 00:00:00 | end_date: 2022-06-16 00:00:00 | days_missed: 11.0 | games_missed: 3
+ - season_name: 21/22 | injury_reason: Knee problems | from_date: 2022-05-16 00:00:00 | end_date: 2022-05-19 00:00:00 | days_missed: 4.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: Corona virus | from_date: 2021-12-16 00:00:00 | end_date: 2021-12-27 00:00:00 | days_missed: 12.0 | games_missed: 3
+ - season_name: 20/21 | injury_reason: Cruciate ligament tear | from_date: 2020-10-19 00:00:00 | end_date: 2021-06-30 00:00:00 | days_missed: 255.0 | games_missed: 57
+ - season_name: 19/20 | injury_reason: Ill | from_date: 2019-12-16 00:00:00 | end_date: 2019-12-19 00:00:00 | days_missed: 4.0 | games_missed: 2
+ - season_name: 18/19 | injury_reason: Ankle injury | from_date: 2019-04-01 00:00:00 | end_date: 2019-04-04 00:00:00 | days_missed: 4.0 | games_missed: 0
+ - season_name: 18/19 | injury_reason: Ill | from_date: 2019-01-21 00:00:00 | end_date: 2019-01-28 00:00:00 | days_missed: 8.0 | games_missed: 0
+
+Transferts:
+ - transfer_date: 2018-01-01 00:00:00 | from_team_name: Southampton | to_team_name: Liverpool | transfer_type: Transfer | value_at_transfer: 30000000 | transfer_fee: 84650000
+ - transfer_date: 2015-09-01 00:00:00 | from_team_name: Celtic | to_team_name: Southampton | transfer_type: Transfer | value_at_transfer: 5000000 | transfer_fee: 15700000
+ - transfer_date: 2013-07-01 00:00:00 | from_team_name: FC Groningen | to_team_name: Celtic | transfer_type: Transfer | value_at_transfer: 3000000 | transfer_fee: 2750000
+ - transfer_date: 2011-07-01 00:00:00 | from_team_name: Gron./Cam. U21 | to_team_name: FC Groningen | transfer_type: Transfer | value_at_transfer: 250000 | transfer_fee: 0
+ - transfer_date: 2010-07-01 00:00:00 | from_team_name: Willem II/RKC-19 | to_team_name: FC Groning. U21 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2008-07-01 00:00:00 | from_team_name: Willem II U17 | to_team_name: Willem II U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2006-07-01 00:00:00 | from_team_name: Willem II Youth | to_team_name: Willem II U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2001-07-01 00:00:00 | from_team_name: WDS '19 Jeugd | to_team_name: Willem II Youth | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Mohamed Salah (ID 148455)
+========================================================================================================================
+
+Profil :
+ - player_id: 148455
+ - player_name: Mohamed Salah
+ - player_slug: mohamed-salah
+ - date_of_birth: 1992-06-15 00:00:00
+ - country_of_birth: Egypt
+ - height: 175.0
+ - is_eu: False
+ - main_position: Attack
+ - sub_position: Right Winger
+ - foot: left
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Egypt
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : Liverpool FC (25/26)
+
+Dernière valeur marchande : 50000000.0 (date: 2025-05-29 00:00:00)
+
+Historique valeur marchande :
+ - 2017-06-07 00:00:00 : 35000000.0
+ - 2017-10-22 00:00:00 : 40000000.0
+ - 2018-01-01 00:00:00 : 80000000.0
+ - 2018-05-27 00:00:00 : 150000000.0
+ - 2018-12-18 00:00:00 : 150000000.0
+ - 2019-06-12 00:00:00 : 150000000.0
+ - 2019-12-09 00:00:00 : 150000000.0
+ - 2020-04-07 00:00:00 : 120000000.0
+ - 2020-10-12 00:00:00 : 120000000.0
+ - 2021-03-17 00:00:00 : 110000000.0
+ - 2021-06-07 00:00:00 : 100000000.0
+ - 2021-12-22 00:00:00 : 100000000.0
+ - 2022-06-14 00:00:00 : 90000000.0
+ - 2022-11-02 00:00:00 : 80000000.0
+ - 2023-03-15 00:00:00 : 70000000.0
+ - 2023-06-19 00:00:00 : 65000000.0
+ - 2023-12-18 00:00:00 : 65000000.0
+ - 2024-05-26 00:00:00 : 55000000.0
+ - 2024-12-15 00:00:00 : 55000000.0
+ - 2025-05-29 00:00:00 : 50000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: Premier League | team_name: Liverpool FC | goals: 1.0 | assists: 1 | minutes_played: 270.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 25/26 | competition_name: Community Shield | team_name: Liverpool FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Premier League | team_name: Liverpool FC | goals: 29.0 | assists: 18 | minutes_played: 117.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: EFL Cup | team_name: Liverpool FC | goals: 2.0 | assists: 1 | minutes_played: 156.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: Liverpool FC | goals: 3.0 | assists: 4 | minutes_played: 270.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Premier League | team_name: Liverpool FC | goals: 18.0 | assists: 10 | minutes_played: 141.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Europa League | team_name: Liverpool FC | goals: 5.0 | assists: 4 | minutes_played: 80.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: FA Cup | team_name: Liverpool FC | goals: 1.0 | assists: 0 | minutes_played: 77.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: EFL Cup | team_name: Liverpool FC | goals: 1.0 | assists: 0 | minutes_played: 120.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Premier League | team_name: Liverpool FC | goals: 19.0 | assists: 12 | minutes_played: 174.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3672 | matches: 105 | goals: 59 | shirt_number: 10 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 3352.0 | debut_game_id: 1028621.0
+ - team_id: 16121 | matches: 12 | goals: 3 | shirt_number: 12 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 18824.0 | debut_game_id: 1095603.0
+ - team_id: 30951 | matches: 11 | goals: 4 | shirt_number: 11 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 53825 | matches: 4 | goals: 3 | shirt_number: 11 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 3352.0 | debut_game_id: 2688684.0
+
+Blessures:
+ - season_name: 23/24 | injury_reason: muscular problems | from_date: 2024-02-19 00:00:00 | end_date: 2024-03-04 00:00:00 | days_missed: 15.0 | games_missed: 4
+ - season_name: 23/24 | injury_reason: Hamstring muscle injury | from_date: 2024-01-19 00:00:00 | end_date: 2024-02-13 00:00:00 | days_missed: 26.0 | games_missed: 8
+ - season_name: 20/21 | injury_reason: Corona virus | from_date: 2020-11-13 00:00:00 | end_date: 2020-11-24 00:00:00 | days_missed: 12.0 | games_missed: 3
+ - season_name: 19/20 | injury_reason: Ankle injury | from_date: 2019-11-11 00:00:00 | end_date: 2019-11-22 00:00:00 | days_missed: 12.0 | games_missed: 2
+ - season_name: 19/20 | injury_reason: Ankle problems | from_date: 2019-10-06 00:00:00 | end_date: 2019-10-22 00:00:00 | days_missed: 17.0 | games_missed: 2
+ - season_name: 18/19 | injury_reason: concussion | from_date: 2019-05-05 00:00:00 | end_date: 2019-05-11 00:00:00 | days_missed: 7.0 | games_missed: 1
+ - season_name: 18/19 | injury_reason: Thigh problems | from_date: 2018-10-13 00:00:00 | end_date: 2018-10-18 00:00:00 | days_missed: 6.0 | games_missed: 1
+ - season_name: 17/18 | injury_reason: Shoulder injury | from_date: 2018-05-27 00:00:00 | end_date: 2018-06-14 00:00:00 | days_missed: 19.0 | games_missed: 2
+ - season_name: 16/17 | injury_reason: Torn lateral ankle ligament | from_date: 2016-12-01 00:00:00 | end_date: 2016-12-15 00:00:00 | days_missed: 15.0 | games_missed: 3
+ - season_name: 15/16 | injury_reason: Torn lateral ankle ligament | from_date: 2015-11-09 00:00:00 | end_date: 2015-12-07 00:00:00 | days_missed: 29.0 | games_missed: 6
+
+Transferts:
+ - transfer_date: 2017-07-01 00:00:00 | from_team_name: AS Roma | to_team_name: Liverpool | transfer_type: Transfer | value_at_transfer: 35000000 | transfer_fee: 42000000
+ - transfer_date: 2016-07-01 00:00:00 | from_team_name: Chelsea | to_team_name: AS Roma | transfer_type: Transfer | value_at_transfer: 23000000 | transfer_fee: 15000000
+ - transfer_date: 2016-06-30 00:00:00 | from_team_name: AS Roma | to_team_name: Chelsea | transfer_type: Return from loan | value_at_transfer: 23000000 | transfer_fee: 0
+ - transfer_date: 2015-08-06 00:00:00 | from_team_name: Chelsea | to_team_name: AS Roma | transfer_type: Loan | value_at_transfer: 18000000 | transfer_fee: 0
+ - transfer_date: 2015-06-30 00:00:00 | from_team_name: Fiorentina | to_team_name: Chelsea | transfer_type: Return from loan | value_at_transfer: 12000000 | transfer_fee: 0
+ - transfer_date: 2015-02-02 00:00:00 | from_team_name: Chelsea | to_team_name: Fiorentina | transfer_type: Loan | value_at_transfer: 13000000 | transfer_fee: 0
+ - transfer_date: 2014-01-26 00:00:00 | from_team_name: FC Basel | to_team_name: Chelsea | transfer_type: Transfer | value_at_transfer: 8500000 | transfer_fee: 16500000
+ - transfer_date: 2012-07-01 00:00:00 | from_team_name: El Mokawloon | to_team_name: FC Basel | transfer_type: Transfer | value_at_transfer: 1500000 | transfer_fee: 2500000
+ - transfer_date: 2010-05-01 00:00:00 | from_team_name: Mokawloon U23 | to_team_name: El Mokawloon | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Karim Benzema (ID 18922)
+========================================================================================================================
+
+Profil :
+ - player_id: 18922
+ - player_name: Karim Benzema
+ - player_slug: karim-benzema
+ - date_of_birth: 1987-12-19 00:00:00
+ - country_of_birth: France
+ - height: 185.0
+ - is_eu: True
+ - main_position: Attack
+ - sub_position: Centre-Forward
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: France
+ - nationality_2: Algeria
+ - has_dual_nationality: True
+
+Club le plus récent : Al-Ittihad Club (25/26)
+
+Dernière valeur marchande : 7000000.0 (date: 2025-05-26 00:00:00)
+
+Historique valeur marchande :
+ - 2017-01-23 00:00:00 : 60000000.0
+ - 2017-06-04 00:00:00 : 60000000.0
+ - 2017-12-31 00:00:00 : 50000000.0
+ - 2018-05-29 00:00:00 : 40000000.0
+ - 2018-12-20 00:00:00 : 40000000.0
+ - 2019-06-10 00:00:00 : 40000000.0
+ - 2019-12-19 00:00:00 : 40000000.0
+ - 2020-04-07 00:00:00 : 32000000.0
+ - 2020-10-07 00:00:00 : 25000000.0
+ - 2021-01-04 00:00:00 : 25000000.0
+ - 2021-05-31 00:00:00 : 25000000.0
+ - 2021-12-29 00:00:00 : 25000000.0
+ - 2022-06-02 00:00:00 : 30000000.0
+ - 2022-11-06 00:00:00 : 35000000.0
+ - 2023-06-12 00:00:00 : 25000000.0
+ - 2023-10-23 00:00:00 : 15000000.0
+ - 2023-12-14 00:00:00 : 15000000.0
+ - 2024-06-03 00:00:00 : 10000000.0
+ - 2024-12-12 00:00:00 : 8000000.0
+ - 2025-05-26 00:00:00 : 7000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: Saudi Pro League | team_name: Al-Ittihad Club | goals: 3.0 | assists: 0 | minutes_played: 30.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 25/26 | competition_name: Saudi Super Cup | team_name: Al-Ittihad Club | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: King's Cup | team_name: Al-Ittihad Club | goals: 4.0 | assists: 0 | minutes_played: 80.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Saudi Pro League | team_name: Al-Ittihad Club | goals: 21.0 | assists: 9 | minutes_played: 121.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Saudi Pro League | team_name: Al-Ittihad Club | goals: 9.0 | assists: 7 | minutes_played: 193.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Saudi Super Cup | team_name: Al-Ittihad Club | goals: 1.0 | assists: 0 | minutes_played: 180.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: AFC Champions League | team_name: Al-Ittihad Club | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: King's Cup | team_name: Al-Ittihad Club | goals: 1.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Copa del Rey | team_name: Real Madrid | goals: 4.0 | assists: 1 | minutes_played: 120.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: UEFA Super Cup | team_name: Real Madrid | goals: 1.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3377 | matches: 97 | goals: 37 | shirt_number: 19 | career_state: RETIRED_NATIONAL_PLAYER | coach_id: 1727.0 | debut_game_id: 86323.0
+ - team_id: 9323 | matches: 5 | goals: 0 | shirt_number: 18 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 9074.0 | debut_game_id: 2774182.0
+ - team_id: 10831 | matches: 4 | goals: 1 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 3980.0 | debut_game_id: 3358717.0
+ - team_id: 23101 | matches: 9 | goals: 5 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 25250 | matches: 17 | goals: 14 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1733.0 | debut_game_id: 2371883.0
+
+Blessures:
+ - season_name: 24/25 | injury_reason: unknown injury | from_date: 2025-05-11 00:00:00 | end_date: 2025-05-22 00:00:00 | days_missed: 12.0 | games_missed: 3
+ - season_name: 24/25 | injury_reason: muscle stiffness | from_date: 2024-10-29 00:00:00 | end_date: 2024-11-26 00:00:00 | days_missed: 29.0 | games_missed: 3
+ - season_name: 23/24 | injury_reason: Muscle injury | from_date: 2024-04-22 00:00:00 | end_date: 2024-07-17 00:00:00 | days_missed: 87.0 | games_missed: 7
+ - season_name: 23/24 | injury_reason: Back problems | from_date: 2023-11-30 00:00:00 | end_date: 2023-12-10 00:00:00 | days_missed: 11.0 | games_missed: 3
+ - season_name: 22/23 | injury_reason: Rest | from_date: 2023-05-12 00:00:00 | end_date: 2023-05-15 00:00:00 | days_missed: 4.0 | games_missed: 1
+ - season_name: 22/23 | injury_reason: Rest | from_date: 2023-05-01 00:00:00 | end_date: 2023-05-03 00:00:00 | days_missed: 3.0 | games_missed: 1
+ - season_name: 22/23 | injury_reason: Ankle injury | from_date: 2023-03-07 00:00:00 | end_date: 2023-03-13 00:00:00 | days_missed: 7.0 | games_missed: 1
+ - season_name: 22/23 | injury_reason: Muscle fatigue | from_date: 2023-02-16 00:00:00 | end_date: 2023-02-20 00:00:00 | days_missed: 5.0 | games_missed: 1
+ - season_name: 22/23 | injury_reason: Muscle fatigue | from_date: 2023-02-03 00:00:00 | end_date: 2023-02-10 00:00:00 | days_missed: 8.0 | games_missed: 2
+ - season_name: 22/23 | injury_reason: Left hip flexor problems | from_date: 2022-11-19 00:00:00 | end_date: 2022-12-09 00:00:00 | days_missed: 21.0 | games_missed: 0
+
+Transferts:
+ - transfer_date: 2023-07-01 00:00:00 | from_team_name: Real Madrid | to_team_name: Al-Ittihad | transfer_type: Transfer | value_at_transfer: 25000000 | transfer_fee: 0
+ - transfer_date: 2009-07-09 00:00:00 | from_team_name: Olympique Lyon | to_team_name: Real Madrid | transfer_type: Transfer | value_at_transfer: 29000000 | transfer_fee: 35000000
+ - transfer_date: 2005-07-01 00:00:00 | from_team_name: Olymp. Lyon U19 | to_team_name: Olympique Lyon | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2003-07-01 00:00:00 | from_team_name: Olymp. Lyon U17 | to_team_name: Olymp. Lyon U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2002-07-01 00:00:00 | from_team_name: Ol. Lyon Yth. | to_team_name: Olymp. Lyon U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Manuel Neuer (ID 17259)
+========================================================================================================================
+
+Profil :
+ - player_id: 17259
+ - player_name: Manuel Neuer
+ - player_slug: manuel-neuer
+ - date_of_birth: 1986-03-27 00:00:00
+ - country_of_birth: Germany
+ - height: 193.0
+ - is_eu: True
+ - main_position: Goalkeeper
+ - sub_position: Goalkeeper
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Germany
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : Bayern Munich (25/26)
+
+Dernière valeur marchande : 4000000.0 (date: 2025-06-04 00:00:00)
+
+Historique valeur marchande :
+ - 2017-12-27 00:00:00 : 35000000.0
+ - 2018-06-04 00:00:00 : 35000000.0
+ - 2018-10-21 00:00:00 : 30000000.0
+ - 2018-12-17 00:00:00 : 22000000.0
+ - 2019-06-04 00:00:00 : 18000000.0
+ - 2019-12-16 00:00:00 : 18000000.0
+ - 2020-04-07 00:00:00 : 14500000.0
+ - 2020-09-15 00:00:00 : 18000000.0
+ - 2021-02-09 00:00:00 : 18000000.0
+ - 2021-05-31 00:00:00 : 18000000.0
+ - 2021-12-21 00:00:00 : 14000000.0
+ - 2022-06-08 00:00:00 : 15000000.0
+ - 2022-11-08 00:00:00 : 12000000.0
+ - 2023-03-28 00:00:00 : 7000000.0
+ - 2023-06-21 00:00:00 : 7000000.0
+ - 2023-10-17 00:00:00 : 5000000.0
+ - 2023-12-13 00:00:00 : 5000000.0
+ - 2024-05-28 00:00:00 : 4000000.0
+ - 2024-12-19 00:00:00 : 4000000.0
+ - 2025-06-04 00:00:00 : 4000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: Bundesliga | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 180.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 1
+ - season_name: 25/26 | competition_name: DFL-Supercup | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Bundesliga | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 1980.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 13
+ - season_name: 24/25 | competition_name: Champions League | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 823.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 4
+ - season_name: 24/25 | competition_name: DFB-Pokal | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 197.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 3
+ - season_name: 23/24 | competition_name: Bundesliga | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 2054.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 7
+ - season_name: 23/24 | competition_name: Champions League | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 810.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 4
+ - season_name: 23/24 | competition_name: DFB-Pokal | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Champions League | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 270.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 3
+ - season_name: 22/23 | competition_name: DFB-Pokal | team_name: Bayern Munich | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3262 | matches: 124 | goals: 0 | shirt_number: 1 | career_state: RETIRED_NATIONAL_PLAYER | coach_id: 495.0 | debut_game_id: 936263.0
+ - team_id: 3817 | matches: 20 | goals: 0 | shirt_number: 1 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1454.0 | debut_game_id: 1107547.0
+ - team_id: 5709 | matches: 4 | goals: 0 | shirt_number: 1 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1464.0 | debut_game_id: 1020015.0
+ - team_id: 5710 | matches: 11 | goals: 0 | shirt_number: 1 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1464.0 | debut_game_id: 3970577.0
+ - team_id: 9067 | matches: 1 | goals: 0 | shirt_number: 1 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+
+Blessures:
+ - season_name: 24/25 | injury_reason: Torn muscle fiber | from_date: 2025-03-06 00:00:00 | end_date: 2025-04-30 00:00:00 | days_missed: 56.0 | games_missed: 10
+ - season_name: 24/25 | injury_reason: Rib fracture | from_date: 2024-12-06 00:00:00 | end_date: 2024-12-31 00:00:00 | days_missed: 26.0 | games_missed: 4
+ - season_name: 24/25 | injury_reason: Thigh problems | from_date: 2024-09-18 00:00:00 | end_date: 2024-09-26 00:00:00 | days_missed: 9.0 | games_missed: 1
+ - season_name: 23/24 | injury_reason: infection | from_date: 2024-05-27 00:00:00 | end_date: 2024-05-31 00:00:00 | days_missed: 5.0 | games_missed: 0
+ - season_name: 23/24 | injury_reason: Torn muscle fiber | from_date: 2024-03-20 00:00:00 | end_date: 2024-04-08 00:00:00 | days_missed: 20.0 | games_missed: 4
+ - season_name: 23/24 | injury_reason: Fitness | from_date: 2023-10-18 00:00:00 | end_date: 2023-10-25 00:00:00 | days_missed: 8.0 | games_missed: 2
+ - season_name: 22/23 | injury_reason: Lower leg fracture | from_date: 2022-12-10 00:00:00 | end_date: 2023-10-17 00:00:00 | days_missed: 312.0 | games_missed: 44
+ - season_name: 22/23 | injury_reason: Shoulder joint contusion | from_date: 2022-10-10 00:00:00 | end_date: 2022-11-03 00:00:00 | days_missed: 25.0 | games_missed: 7
+ - season_name: 22/23 | injury_reason: Corona virus | from_date: 2022-09-19 00:00:00 | end_date: 2022-09-26 00:00:00 | days_missed: 8.0 | games_missed: 2
+ - season_name: 21/22 | injury_reason: Knee surgery | from_date: 2022-02-03 00:00:00 | end_date: 2022-03-07 00:00:00 | days_missed: 33.0 | games_missed: 6
+
+Transferts:
+ - transfer_date: 2011-07-01 00:00:00 | from_team_name: FC Schalke 04 | to_team_name: Bayern Munich | transfer_type: Transfer | value_at_transfer: 28000000 | transfer_fee: 30000000
+ - transfer_date: 2005-07-01 00:00:00 | from_team_name: Schalke 04 U19 | to_team_name: FC Schalke 04 | transfer_type: Transfer | value_at_transfer: 75000 | transfer_fee: 0
+ - transfer_date: 2003-07-01 00:00:00 | from_team_name: Schalke 04 U17 | to_team_name: Schalke 04 U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2001-07-01 00:00:00 | from_team_name: Schalke 04 Yth. | to_team_name: Schalke 04 U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Diogo Jota (ID 340950)
+========================================================================================================================
+
+Profil :
+ - player_id: 340950
+ - player_name: Diogo Jota
+ - player_slug: diogo-jota
+ - date_of_birth: 1996-12-04 00:00:00
+ - country_of_birth: Portugal
+ - height: 178.0
+ - is_eu: True
+ - main_position: Attack
+ - sub_position: Left Winger
+ - foot: right
+ - date_of_death: 2025-07-03 00:00:00
+ - suspected_duplicate: False
+ - is_dead: True
+ - current_status: deceased
+ - nationality_1: Portugal
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : Liverpool FC (24/25)
+
+Dernière valeur marchande : 40000000.0 (date: 2025-05-29 00:00:00)
+
+Historique valeur marchande :
+ - 2017-02-21 00:00:00 : 8000000.0
+ - 2017-06-25 00:00:00 : 8000000.0
+ - 2018-02-26 00:00:00 : 12000000.0
+ - 2018-08-12 00:00:00 : 18000000.0
+ - 2018-12-18 00:00:00 : 18000000.0
+ - 2019-06-12 00:00:00 : 35000000.0
+ - 2019-12-09 00:00:00 : 35000000.0
+ - 2020-04-07 00:00:00 : 28000000.0
+ - 2020-10-12 00:00:00 : 40000000.0
+ - 2021-03-17 00:00:00 : 40000000.0
+ - 2021-05-31 00:00:00 : 45000000.0
+ - 2021-12-22 00:00:00 : 60000000.0
+ - 2022-06-14 00:00:00 : 60000000.0
+ - 2022-11-02 00:00:00 : 55000000.0
+ - 2023-06-19 00:00:00 : 50000000.0
+ - 2023-12-18 00:00:00 : 50000000.0
+ - 2024-05-26 00:00:00 : 50000000.0
+ - 2024-12-15 00:00:00 : 50000000.0
+ - 2025-03-17 00:00:00 : 45000000.0
+ - 2025-05-29 00:00:00 : 40000000.0
+
+Performances club (10 dernières):
+ - season_name: 24/25 | competition_name: Premier League | team_name: Liverpool FC | goals: 6.0 | assists: 4 | minutes_played: 199.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: FA Cup | team_name: Liverpool FC | goals: 1.0 | assists: 0 | minutes_played: 180.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: EFL Cup | team_name: Liverpool FC | goals: 2.0 | assists: 0 | minutes_played: 111.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: Liverpool FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Premier League | team_name: Liverpool FC | goals: 10.0 | assists: 4 | minutes_played: 115.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Europa League | team_name: Liverpool FC | goals: 3.0 | assists: 0 | minutes_played: 76.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: FA Cup | team_name: Liverpool FC | goals: 1.0 | assists: 1 | minutes_played: 121.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: EFL Cup | team_name: Liverpool FC | goals: 1.0 | assists: 0 | minutes_played: 212.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Premier League | team_name: Liverpool FC | goals: 7.0 | assists: 4 | minutes_played: 162.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Champions League | team_name: Liverpool FC | goals: 0.0 | assists: 4 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3300 | matches: 49 | goals: 14 | shirt_number: 21 | career_state: RECENT_NATIONAL_PLAYER | coach_id: 782.0 | debut_game_id: 3136927.0
+ - team_id: 16372 | matches: 9 | goals: 5 | shirt_number: 18 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 16336.0 | debut_game_id: 2502561.0
+ - team_id: 16373 | matches: 0 | goals: 0 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: 3531834.0
+ - team_id: 16374 | matches: 20 | goals: 8 | shirt_number: 9 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 10104.0 | debut_game_id: 2578352.0
+ - team_id: 53807 | matches: 1 | goals: 1 | shirt_number: 11 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 10104.0 | debut_game_id: 3666552.0
+
+Blessures:
+ - season_name: 24/25 | injury_reason: muscular problems | from_date: 2025-01-15 00:00:00 | end_date: 2025-01-31 00:00:00 | days_missed: 17.0 | games_missed: 4
+ - season_name: 24/25 | injury_reason: Muscle injury | from_date: 2024-10-20 00:00:00 | end_date: 2024-12-12 00:00:00 | days_missed: 54.0 | games_missed: 14
+ - season_name: 23/24 | injury_reason: Hip injury | from_date: 2024-04-22 00:00:00 | end_date: 2024-05-14 00:00:00 | days_missed: 23.0 | games_missed: 4
+ - season_name: 23/24 | injury_reason: Knee collateral ligament tear | from_date: 2024-02-18 00:00:00 | end_date: 2024-04-09 00:00:00 | days_missed: 52.0 | games_missed: 13
+ - season_name: 23/24 | injury_reason: Muscle injury | from_date: 2023-11-26 00:00:00 | end_date: 2023-12-24 00:00:00 | days_missed: 29.0 | games_missed: 8
+ - season_name: 22/23 | injury_reason: Calf injury | from_date: 2022-10-17 00:00:00 | end_date: 2023-02-10 00:00:00 | days_missed: 117.0 | games_missed: 24
+ - season_name: 22/23 | injury_reason: Hamstring injury | from_date: 2022-08-01 00:00:00 | end_date: 2022-09-01 00:00:00 | days_missed: 32.0 | games_missed: 5
+ - season_name: 21/22 | injury_reason: Ankle injury | from_date: 2022-02-14 00:00:00 | end_date: 2022-02-28 00:00:00 | days_missed: 15.0 | games_missed: 4
+ - season_name: 20/21 | injury_reason: Foot injury | from_date: 2021-05-13 00:00:00 | end_date: 2021-05-24 00:00:00 | days_missed: 12.0 | games_missed: 4
+ - season_name: 20/21 | injury_reason: Knee bruise | from_date: 2020-12-07 00:00:00 | end_date: 2021-03-01 00:00:00 | days_missed: 85.0 | games_missed: 19
+
+Transferts:
+ - transfer_date: 2020-09-19 00:00:00 | from_team_name: Wolves | to_team_name: Liverpool | transfer_type: Transfer | value_at_transfer: 28000000 | transfer_fee: 44700000
+ - transfer_date: 2018-07-01 00:00:00 | from_team_name: Atlético Madrid | to_team_name: Wolves | transfer_type: Transfer | value_at_transfer: 12000000 | transfer_fee: 14000000
+ - transfer_date: 2018-06-30 00:00:00 | from_team_name: Wolves | to_team_name: Atlético Madrid | transfer_type: Return from loan | value_at_transfer: 12000000 | transfer_fee: 0
+ - transfer_date: 2017-07-25 00:00:00 | from_team_name: Atlético Madrid | to_team_name: Wolves | transfer_type: Loan | value_at_transfer: 8000000 | transfer_fee: 0
+ - transfer_date: 2017-06-30 00:00:00 | from_team_name: FC Porto | to_team_name: Atlético Madrid | transfer_type: Return from loan | value_at_transfer: 8000000 | transfer_fee: 0
+ - transfer_date: 2016-08-26 00:00:00 | from_team_name: Atlético Madrid | to_team_name: FC Porto | transfer_type: Loan | value_at_transfer: 7000000 | transfer_fee: 0
+ - transfer_date: 2016-07-06 00:00:00 | from_team_name: Paços Ferreira | to_team_name: Atlético Madrid | transfer_type: Transfer | value_at_transfer: 3000000 | transfer_fee: 7000000
+ - transfer_date: 2015-01-10 00:00:00 | from_team_name: P. Ferreira U19 | to_team_name: Paços Ferreira | transfer_type: Transfer | value_at_transfer: 100000 | transfer_fee: 0
+ - transfer_date: 2013-07-01 00:00:00 | from_team_name: Gondomar U19 | to_team_name: P. Ferreira U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2012-07-01 00:00:00 | from_team_name: Gondomar Sub-17 | to_team_name: Gondomar U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Kylian Mbappé (ID 342229)
+========================================================================================================================
+
+Profil :
+ - player_id: 342229
+ - player_name: Kylian Mbappé
+ - player_slug: kylian-mbappe
+ - date_of_birth: 1998-12-20 00:00:00
+ - country_of_birth: France
+ - height: 178.0
+ - is_eu: True
+ - main_position: Attack
+ - sub_position: Centre-Forward
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: France
+ - nationality_2: Cameroon
+ - has_dual_nationality: True
+
+Club le plus récent : Real Madrid (25/26)
+
+Dernière valeur marchande : 180000000.0 (date: 2025-06-08 00:00:00)
+
+Historique valeur marchande :
+ - 2018-06-03 00:00:00 : 120000000.0
+ - 2018-07-15 00:00:00 : 150000000.0
+ - 2018-10-23 00:00:00 : 180000000.0
+ - 2018-12-16 00:00:00 : 200000000.0
+ - 2019-06-02 00:00:00 : 200000000.0
+ - 2019-12-18 00:00:00 : 200000000.0
+ - 2020-04-07 00:00:00 : 180000000.0
+ - 2020-10-14 00:00:00 : 180000000.0
+ - 2021-04-08 00:00:00 : 160000000.0
+ - 2021-05-31 00:00:00 : 160000000.0
+ - 2021-12-15 00:00:00 : 160000000.0
+ - 2022-05-29 00:00:00 : 160000000.0
+ - 2022-11-01 00:00:00 : 160000000.0
+ - 2022-12-22 00:00:00 : 180000000.0
+ - 2023-06-26 00:00:00 : 180000000.0
+ - 2023-12-17 00:00:00 : 180000000.0
+ - 2024-06-02 00:00:00 : 180000000.0
+ - 2024-12-26 00:00:00 : 160000000.0
+ - 2025-03-20 00:00:00 : 170000000.0
+ - 2025-06-08 00:00:00 : 180000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: LaLiga | team_name: Real Madrid | goals: 3.0 | assists: 0 | minutes_played: 89.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: LaLiga | team_name: Real Madrid | goals: 31.0 | assists: 3 | minutes_played: 94.0 | yellow_cards: 3 | direct_red_cards: 1 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Copa del Rey | team_name: Real Madrid | goals: 2.0 | assists: 0 | minutes_played: 118.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: Real Madrid | goals: 7.0 | assists: 1 | minutes_played: 162.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Supercopa | team_name: Real Madrid | goals: 1.0 | assists: 0 | minutes_played: 180.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: FIFA Intercontinental Cup | team_name: Real Madrid | goals: 1.0 | assists: 1 | minutes_played: 62.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: UEFA Super Cup | team_name: Real Madrid | goals: 1.0 | assists: 0 | minutes_played: 83.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Coupe de France | team_name: Paris Saint-Germain | goals: 8.0 | assists: 3 | minutes_played: 68.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 27.0 | assists: 7 | minutes_played: 80.0 | yellow_cards: 4 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Champions League | team_name: Paris Saint-Germain | goals: 8.0 | assists: 0 | minutes_played: 135.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3377 | matches: 92 | goals: 52 | shirt_number: 10 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 1229.0 | debut_game_id: 2643475.0
+ - team_id: 10831 | matches: 2 | goals: 0 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 23101 | matches: 11 | goals: 7 | shirt_number: 11 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1535.0 | debut_game_id: 2675490.0
+
+Blessures:
+ - season_name: 24/25 | injury_reason: Stomach flu | from_date: 2025-06-18 00:00:00 | end_date: 2025-06-30 00:00:00 | days_missed: 13.0 | games_missed: 3
+ - season_name: 24/25 | injury_reason: Hamstring injury | from_date: 2024-12-12 00:00:00 | end_date: 2024-12-17 00:00:00 | days_missed: 6.0 | games_missed: 1
+ - season_name: 24/25 | injury_reason: Muscle injury | from_date: 2024-09-25 00:00:00 | end_date: 2024-09-30 00:00:00 | days_missed: 6.0 | games_missed: 1
+ - season_name: 22/23 | injury_reason: Hamstring injury | from_date: 2023-02-02 00:00:00 | end_date: 2023-02-12 00:00:00 | days_missed: 11.0 | games_missed: 3
+ - season_name: 22/23 | injury_reason: Adductor pain | from_date: 2022-08-05 00:00:00 | end_date: 2022-08-07 00:00:00 | days_missed: 3.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: infection | from_date: 2021-10-26 00:00:00 | end_date: 2021-11-02 00:00:00 | days_missed: 8.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: Calf injury | from_date: 2021-09-02 00:00:00 | end_date: 2021-09-10 00:00:00 | days_missed: 9.0 | games_missed: 2
+ - season_name: 20/21 | injury_reason: Calf injury | from_date: 2021-05-05 00:00:00 | end_date: 2021-05-11 00:00:00 | days_missed: 7.0 | games_missed: 1
+ - season_name: 20/21 | injury_reason: Calf injury | from_date: 2021-04-29 00:00:00 | end_date: 2021-05-03 00:00:00 | days_missed: 5.0 | games_missed: 1
+ - season_name: 20/21 | injury_reason: Thigh problems | from_date: 2020-11-01 00:00:00 | end_date: 2020-11-15 00:00:00 | days_missed: 15.0 | games_missed: 4
+
+Transferts:
+ - transfer_date: 2024-07-01 00:00:00 | from_team_name: Paris SG | to_team_name: Real Madrid | transfer_type: Transfer | value_at_transfer: 180000000 | transfer_fee: 0
+ - transfer_date: 2018-07-01 00:00:00 | from_team_name: Monaco | to_team_name: Paris SG | transfer_type: Transfer | value_at_transfer: 120000000 | transfer_fee: 180000000
+ - transfer_date: 2018-06-30 00:00:00 | from_team_name: Paris SG | to_team_name: Monaco | transfer_type: Return from loan | value_at_transfer: 120000000 | transfer_fee: 0
+ - transfer_date: 2017-08-31 00:00:00 | from_team_name: Monaco | to_team_name: Paris SG | transfer_type: Loan | value_at_transfer: 35000000 | transfer_fee: 0
+ - transfer_date: 2016-01-01 00:00:00 | from_team_name: Monaco U19 | to_team_name: Monaco | transfer_type: Transfer | value_at_transfer: 50000 | transfer_fee: 0
+ - transfer_date: 2015-07-01 00:00:00 | from_team_name: Monaco Youth | to_team_name: Monaco U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2013-07-01 00:00:00 | from_team_name: Clairef. Yth. | to_team_name: Monaco Youth | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2011-07-01 00:00:00 | from_team_name: AS Bondy Yth. | to_team_name: Clairef. Yth. | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Luka Modrić (ID 27992)
+========================================================================================================================
+
+Profil :
+ - player_id: 27992
+ - player_name: Luka Modrić
+ - player_slug: luka-modric
+ - date_of_birth: 1985-09-09 00:00:00
+ - country_of_birth: Croatia
+ - height: 172.0
+ - is_eu: True
+ - main_position: Midfield
+ - sub_position: Central Midfield
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Croatia
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : AC Milan (25/26)
+
+Dernière valeur marchande : 4000000.0 (date: 2025-06-08 00:00:00)
+
+Historique valeur marchande :
+ - 2017-01-23 00:00:00 : 45000000.0
+ - 2017-06-04 00:00:00 : 40000000.0
+ - 2017-12-31 00:00:00 : 40000000.0
+ - 2018-05-29 00:00:00 : 25000000.0
+ - 2018-12-20 00:00:00 : 25000000.0
+ - 2019-06-10 00:00:00 : 20000000.0
+ - 2019-12-19 00:00:00 : 15000000.0
+ - 2020-04-07 00:00:00 : 12000000.0
+ - 2020-10-07 00:00:00 : 10000000.0
+ - 2021-01-04 00:00:00 : 10000000.0
+ - 2021-05-27 00:00:00 : 10000000.0
+ - 2021-12-29 00:00:00 : 10000000.0
+ - 2022-06-02 00:00:00 : 10000000.0
+ - 2022-11-06 00:00:00 : 10000000.0
+ - 2023-06-12 00:00:00 : 10000000.0
+ - 2023-12-21 00:00:00 : 10000000.0
+ - 2024-03-20 00:00:00 : 8000000.0
+ - 2024-06-06 00:00:00 : 6000000.0
+ - 2024-12-26 00:00:00 : 5000000.0
+ - 2025-06-08 00:00:00 : 4000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: Serie A | team_name: AC Milan | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 25/26 | competition_name: Italy Cup | team_name: AC Milan | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Copa del Rey | team_name: Real Madrid | goals: 2.0 | assists: 0 | minutes_played: 169.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: Real Madrid | goals: 0.0 | assists: 3 | minutes_played: nan | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Supercopa | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: FIFA Intercontinental Cup | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: UEFA Super Cup | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: LaLiga | team_name: Real Madrid | goals: 2.0 | assists: 6 | minutes_played: 910.0 | yellow_cards: 7 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: LaLiga | team_name: Real Madrid | goals: 2.0 | assists: 6 | minutes_played: 844.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Champions League | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3556 | matches: 190 | goals: 28 | shirt_number: 10 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 2690.0 | debut_game_id: 1059981.0
+ - team_id: 11943 | matches: 15 | goals: 2 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 17379 | matches: 11 | goals: 1 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 21141 | matches: 2 | goals: 0 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 28207 | matches: 7 | goals: 0 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+
+Blessures:
+ - season_name: 23/24 | injury_reason: Thigh problems | from_date: 2023-11-26 00:00:00 | end_date: 2023-12-01 00:00:00 | days_missed: 6.0 | games_missed: 2
+ - season_name: 22/23 | injury_reason: Muscle fatigue | from_date: 2022-10-24 00:00:00 | end_date: 2022-10-29 00:00:00 | days_missed: 6.0 | games_missed: 1
+ - season_name: 22/23 | injury_reason: strain | from_date: 2022-09-28 00:00:00 | end_date: 2022-10-06 00:00:00 | days_missed: 9.0 | games_missed: 2
+ - season_name: 21/22 | injury_reason: Knock | from_date: 2022-01-03 00:00:00 | end_date: 2022-01-07 00:00:00 | days_missed: 5.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: Corona virus | from_date: 2021-12-15 00:00:00 | end_date: 2021-12-24 00:00:00 | days_missed: 10.0 | games_missed: 2
+ - season_name: 21/22 | injury_reason: cold | from_date: 2021-11-05 00:00:00 | end_date: 2021-11-08 00:00:00 | days_missed: 4.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: muscular problems | from_date: 2021-10-26 00:00:00 | end_date: 2021-10-28 00:00:00 | days_missed: 3.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: Adductor pain | from_date: 2021-08-20 00:00:00 | end_date: 2021-09-10 00:00:00 | days_missed: 22.0 | games_missed: 5
+ - season_name: 20/21 | injury_reason: Back problems | from_date: 2021-04-20 00:00:00 | end_date: 2021-04-23 00:00:00 | days_missed: 4.0 | games_missed: 1
+ - season_name: 20/21 | injury_reason: Contracture | from_date: 2020-12-21 00:00:00 | end_date: 2020-12-27 00:00:00 | days_missed: 7.0 | games_missed: 1
+
+Transferts:
+ - transfer_date: 2025-07-14 00:00:00 | from_team_name: Real Madrid | to_team_name: AC Milan | transfer_type: Transfer | value_at_transfer: 4000000 | transfer_fee: 0
+ - transfer_date: 2012-08-27 00:00:00 | from_team_name: Tottenham | to_team_name: Real Madrid | transfer_type: Transfer | value_at_transfer: 40000000 | transfer_fee: 35000000
+ - transfer_date: 2008-07-01 00:00:00 | from_team_name: Dinamo Zagreb | to_team_name: Tottenham | transfer_type: Transfer | value_at_transfer: 18000000 | transfer_fee: 22500000
+ - transfer_date: 2005-01-12 00:00:00 | from_team_name: Inter Zapresic | to_team_name: Dinamo Zagreb | transfer_type: Return from loan | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2004-07-13 00:00:00 | from_team_name: Dinamo Zagreb | to_team_name: Inter Zapresic | transfer_type: Loan | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2004-06-30 00:00:00 | from_team_name: Zrinjski Mostar | to_team_name: Dinamo Zagreb | transfer_type: Return from loan | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2003-07-29 00:00:00 | from_team_name: Dinamo Zagreb | to_team_name: Zrinjski Mostar | transfer_type: Loan | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2002-07-01 00:00:00 | from_team_name: Din. Zagreb U17 | to_team_name: Dinamo Zagreb | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2001-08-08 00:00:00 | from_team_name: NK Zadar U17 | to_team_name: Din. Zagreb U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2000-07-01 00:00:00 | from_team_name: NK Zadar Jgd | to_team_name: NK Zadar U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Lionel Messi (ID 28003)
+========================================================================================================================
+
+Profil :
+ - player_id: 28003
+ - player_name: Lionel Messi
+ - player_slug: lionel-messi
+ - date_of_birth: 1987-06-24 00:00:00
+ - country_of_birth: Argentina
+ - height: 170.0
+ - is_eu: True
+ - main_position: Attack
+ - sub_position: Right Winger
+ - foot: left
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Argentina
+ - nationality_2: Spain
+ - has_dual_nationality: True
+
+Club le plus récent : Inter Miami CF (24/25)
+
+Dernière valeur marchande : 18000000.0 (date: 2025-06-04 00:00:00)
+
+Historique valeur marchande :
+ - 2018-05-29 00:00:00 : 180000000.0
+ - 2018-12-20 00:00:00 : 160000000.0
+ - 2019-06-10 00:00:00 : 150000000.0
+ - 2019-12-19 00:00:00 : 140000000.0
+ - 2020-04-07 00:00:00 : 112000000.0
+ - 2020-10-07 00:00:00 : 100000000.0
+ - 2021-01-04 00:00:00 : 80000000.0
+ - 2021-06-09 00:00:00 : 80000000.0
+ - 2021-12-15 00:00:00 : 60000000.0
+ - 2022-05-29 00:00:00 : 50000000.0
+ - 2022-11-01 00:00:00 : 50000000.0
+ - 2023-03-26 00:00:00 : 45000000.0
+ - 2023-06-26 00:00:00 : 35000000.0
+ - 2023-08-21 00:00:00 : 35000000.0
+ - 2023-12-17 00:00:00 : 35000000.0
+ - 2024-03-24 00:00:00 : 30000000.0
+ - 2024-06-12 00:00:00 : 30000000.0
+ - 2024-09-25 00:00:00 : 25000000.0
+ - 2024-12-11 00:00:00 : 20000000.0
+ - 2025-06-04 00:00:00 : 18000000.0
+
+Performances club (10 dernières):
+ - season_name: 24/25 | competition_name: CONCACAF CC | team_name: Inter Miami CF | goals: 5.0 | assists: 1 | minutes_played: 111.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: CONCACAF Champions Cup | team_name: Inter Miami CF | goals: 2.0 | assists: 2 | minutes_played: 115.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 16.0 | assists: 16 | minutes_played: 178.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Trophée des Champions | team_name: Paris Saint-Germain | goals: 1.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Coupe de France | team_name: Paris Saint-Germain | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Champions League | team_name: Paris Saint-Germain | goals: 4.0 | assists: 4 | minutes_played: 154.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 21/22 | competition_name: Coupe de France | team_name: Paris Saint-Germain | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 21/22 | competition_name: Champions League | team_name: Paris Saint-Germain | goals: 5.0 | assists: 0 | minutes_played: 126.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 21/22 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 6.0 | assists: 15 | minutes_played: 359.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 2025 | competition_name: Leagues Cup | team_name: Inter Miami CF | goals: 2.0 | assists: 2 | minutes_played: 141.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3437 | matches: 194 | goals: 114 | shirt_number: 10 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 2541.0 | debut_game_id: 1059978.0
+ - team_id: 11940 | matches: 18 | goals: 14 | shirt_number: 18 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 5520.0 | debut_game_id: 4263022.0
+ - team_id: 53819 | matches: 5 | goals: 2 | shirt_number: 15 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 6179.0 | debut_game_id: 2688705.0
+
+Blessures:
+ - season_name: 25/26 | injury_reason: muscular problems | from_date: 2025-08-18 00:00:00 | end_date: 2025-08-26 00:00:00 | days_missed: 9.0 | games_missed: 2
+ - season_name: 25/26 | injury_reason: muscular problems | from_date: 2025-08-04 00:00:00 | end_date: 2025-08-14 00:00:00 | days_missed: 11.0 | games_missed: 2
+ - season_name: 24/25 | injury_reason: Adductor pain | from_date: 2025-03-18 00:00:00 | end_date: 2025-03-27 00:00:00 | days_missed: 10.0 | games_missed: 2
+ - season_name: 24/25 | injury_reason: Rest | from_date: 2025-02-28 00:00:00 | end_date: 2025-03-08 00:00:00 | days_missed: 9.0 | games_missed: 2
+ - season_name: 24/25 | injury_reason: Ligament injury | from_date: 2024-07-16 00:00:00 | end_date: 2024-09-12 00:00:00 | days_missed: 59.0 | games_missed: 10
+ - season_name: 23/24 | injury_reason: Rest | from_date: 2024-05-24 00:00:00 | end_date: 2024-05-27 00:00:00 | days_missed: 4.0 | games_missed: 1
+ - season_name: 23/24 | injury_reason: Leg injury | from_date: 2024-05-14 00:00:00 | end_date: 2024-05-18 00:00:00 | days_missed: 5.0 | games_missed: 1
+ - season_name: 23/24 | injury_reason: muscular problems | from_date: 2024-03-15 00:00:00 | end_date: 2024-04-05 00:00:00 | days_missed: 22.0 | games_missed: 6
+ - season_name: 23/24 | injury_reason: Rest | from_date: 2024-03-09 00:00:00 | end_date: 2024-03-12 00:00:00 | days_missed: 4.0 | games_missed: 1
+ - season_name: 23/24 | injury_reason: Muscle injury | from_date: 2023-09-22 00:00:00 | end_date: 2023-10-06 00:00:00 | days_missed: 15.0 | games_missed: 4
+
+Transferts:
+ - transfer_date: 2023-07-15 00:00:00 | from_team_name: Paris SG | to_team_name: Miami | transfer_type: Transfer | value_at_transfer: 35000000 | transfer_fee: 0
+ - transfer_date: 2021-08-10 00:00:00 | from_team_name: Barcelona | to_team_name: Paris SG | transfer_type: Transfer | value_at_transfer: 80000000 | transfer_fee: 0
+ - transfer_date: 2005-07-01 00:00:00 | from_team_name: Barcelona B | to_team_name: Barcelona | transfer_type: Transfer | value_at_transfer: 3000000 | transfer_fee: 0
+ - transfer_date: 2004-03-05 00:00:00 | from_team_name: Barcelona C | to_team_name: Barcelona B | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2003-11-28 00:00:00 | from_team_name: Barça U19 | to_team_name: Barcelona C | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2003-09-13 00:00:00 | from_team_name: Barça U16 | to_team_name: Barça U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2002-07-01 00:00:00 | from_team_name: Barça Youth | to_team_name: Barça U16 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2000-07-01 00:00:00 | from_team_name: Newell's JV | to_team_name: Barça Youth | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Ousmane Dembélé (ID 288230)
+========================================================================================================================
+
+Profil :
+ - player_id: 288230
+ - player_name: Ousmane Dembélé
+ - player_slug: ousmane-dembele
+ - date_of_birth: 1997-05-15 00:00:00
+ - country_of_birth: France
+ - height: 178.0
+ - is_eu: True
+ - main_position: Attack
+ - sub_position: Right Winger
+ - foot: both
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: France
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : Paris Saint-Germain (25/26)
+
+Dernière valeur marchande : 90000000.0 (date: 2025-06-02 00:00:00)
+
+Historique valeur marchande :
+ - 2018-05-29 00:00:00 : 80000000.0
+ - 2018-12-20 00:00:00 : 80000000.0
+ - 2019-02-27 00:00:00 : 120000000.0
+ - 2019-06-10 00:00:00 : 100000000.0
+ - 2019-12-19 00:00:00 : 75000000.0
+ - 2020-03-04 00:00:00 : 70000000.0
+ - 2020-04-07 00:00:00 : 56000000.0
+ - 2020-10-07 00:00:00 : 50000000.0
+ - 2021-01-04 00:00:00 : 50000000.0
+ - 2021-05-31 00:00:00 : 50000000.0
+ - 2021-12-29 00:00:00 : 30000000.0
+ - 2022-06-02 00:00:00 : 30000000.0
+ - 2022-09-22 00:00:00 : 50000000.0
+ - 2022-11-06 00:00:00 : 60000000.0
+ - 2023-06-12 00:00:00 : 60000000.0
+ - 2023-12-17 00:00:00 : 60000000.0
+ - 2024-06-02 00:00:00 : 60000000.0
+ - 2024-12-09 00:00:00 : 55000000.0
+ - 2025-03-23 00:00:00 : 75000000.0
+ - 2025-06-02 00:00:00 : 90000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 2.0 | assists: 1 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 25/26 | competition_name: UEFA Super Cup | team_name: Paris Saint-Germain | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: Paris Saint-Germain | goals: 8.0 | assists: 6 | minutes_played: 146.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Coupe de France | team_name: Paris Saint-Germain | goals: 3.0 | assists: 1 | minutes_played: 99.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 21.0 | assists: 8 | minutes_played: 83.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Trophée des Champions | team_name: Paris Saint-Germain | goals: 1.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Coupe de France | team_name: Paris Saint-Germain | goals: 1.0 | assists: 2 | minutes_played: 327.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 3.0 | assists: 10 | minutes_played: 503.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Champions League | team_name: Paris Saint-Germain | goals: 2.0 | assists: 2 | minutes_played: 477.0 | yellow_cards: 5 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Trophée des Champions | team_name: Paris Saint-Germain | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3377 | matches: 57 | goals: 7 | shirt_number: 7 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 1229.0 | debut_game_id: 2691521.0
+ - team_id: 9323 | matches: 6 | goals: 2 | shirt_number: 18 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1733.0 | debut_game_id: 2578325.0
+ - team_id: 10831 | matches: 8 | goals: 4 | shirt_number: 11 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 10371.0 | debut_game_id: 2372562.0
+ - team_id: 23101 | matches: 3 | goals: 1 | shirt_number: 11 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 25250 | matches: 5 | goals: 3 | shirt_number: 11 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+
+Blessures:
+ - season_name: 25/26 | injury_reason: Hamstring injury | from_date: 2025-09-06 00:00:00 | end_date: NaT | days_missed: 8.0 | games_missed: 0
+ - season_name: 24/25 | injury_reason: Dead leg | from_date: 2025-06-06 00:00:00 | end_date: 2025-06-29 00:00:00 | days_missed: 24.0 | games_missed: 4
+ - season_name: 24/25 | injury_reason: Hamstring injury | from_date: 2025-04-30 00:00:00 | end_date: 2025-05-08 00:00:00 | days_missed: 9.0 | games_missed: 2
+ - season_name: 24/25 | injury_reason: Ill | from_date: 2025-01-14 00:00:00 | end_date: 2025-01-19 00:00:00 | days_missed: 6.0 | games_missed: 2
+ - season_name: 23/24 | injury_reason: unknown injury | from_date: 2023-12-18 00:00:00 | end_date: 2024-01-08 00:00:00 | days_missed: 22.0 | games_missed: 3
+ - season_name: 22/23 | injury_reason: Hamstring injury | from_date: 2023-01-29 00:00:00 | end_date: 2023-04-28 00:00:00 | days_missed: 90.0 | games_missed: 19
+ - season_name: 21/22 | injury_reason: Corona virus | from_date: 2021-12-29 00:00:00 | end_date: 2022-01-05 00:00:00 | days_missed: 8.0 | games_missed: 2
+ - season_name: 21/22 | injury_reason: Hamstring injury | from_date: 2021-11-04 00:00:00 | end_date: 2021-11-22 00:00:00 | days_missed: 19.0 | games_missed: 4
+ - season_name: 20/21 | injury_reason: Knee injury | from_date: 2021-06-20 00:00:00 | end_date: 2021-11-01 00:00:00 | days_missed: 135.0 | games_missed: 21
+ - season_name: 20/21 | injury_reason: unknown injury | from_date: 2021-04-21 00:00:00 | end_date: 2021-04-23 00:00:00 | days_missed: 3.0 | games_missed: 1
+
+Transferts:
+ - transfer_date: 2023-08-12 00:00:00 | from_team_name: Barcelona | to_team_name: Paris SG | transfer_type: Transfer | value_at_transfer: 60000000 | transfer_fee: 50000000
+ - transfer_date: 2017-08-25 00:00:00 | from_team_name: Bor. Dortmund | to_team_name: Barcelona | transfer_type: Transfer | value_at_transfer: 33000000 | transfer_fee: 148000000
+ - transfer_date: 2016-07-01 00:00:00 | from_team_name: Stade Rennais | to_team_name: Bor. Dortmund | transfer_type: Transfer | value_at_transfer: 12000000 | transfer_fee: 35000000
+ - transfer_date: 2015-10-01 00:00:00 | from_team_name: Rennes B | to_team_name: Stade Rennais | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2014-07-01 00:00:00 | from_team_name: Rennes Jugend | to_team_name: Rennes B | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2010-07-01 00:00:00 | from_team_name: Évreux Jugend | to_team_name: Rennes Jugend | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Toni Kroos (ID 31909)
+========================================================================================================================
+
+Profil :
+ - player_id: 31909
+ - player_name: Toni Kroos
+ - player_slug: toni-kroos
+ - date_of_birth: 1990-01-04 00:00:00
+ - country_of_birth: Germany
+ - height: 183.0
+ - is_eu: True
+ - main_position: Midfield
+ - sub_position: Central Midfield
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: retired
+ - nationality_1: Germany
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : Real Madrid (23/24)
+
+Dernière valeur marchande : 0.0 (date: 2024-07-06 00:00:00)
+
+Historique valeur marchande :
+ - 2017-06-04 00:00:00 : 70000000.0
+ - 2017-12-31 00:00:00 : 80000000.0
+ - 2018-05-29 00:00:00 : 80000000.0
+ - 2018-12-20 00:00:00 : 80000000.0
+ - 2019-06-10 00:00:00 : 60000000.0
+ - 2019-12-19 00:00:00 : 60000000.0
+ - 2020-04-07 00:00:00 : 48000000.0
+ - 2020-10-07 00:00:00 : 50000000.0
+ - 2021-01-04 00:00:00 : 50000000.0
+ - 2021-05-31 00:00:00 : 40000000.0
+ - 2021-10-12 00:00:00 : 30000000.0
+ - 2021-12-29 00:00:00 : 25000000.0
+ - 2022-06-02 00:00:00 : 20000000.0
+ - 2022-11-06 00:00:00 : 20000000.0
+ - 2023-03-22 00:00:00 : 18000000.0
+ - 2023-06-12 00:00:00 : 15000000.0
+ - 2023-12-21 00:00:00 : 14000000.0
+ - 2024-03-20 00:00:00 : 12000000.0
+ - 2024-06-06 00:00:00 : 10000000.0
+ - 2024-07-06 00:00:00 : 0.0
+
+Performances club (10 dernières):
+ - season_name: 23/24 | competition_name: Champions League | team_name: Real Madrid | goals: 0.0 | assists: 2 | minutes_played: nan | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Supercopa | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: LaLiga | team_name: Real Madrid | goals: 1.0 | assists: 8 | minutes_played: 2130.0 | yellow_cards: 3 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Copa del Rey | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Champions League | team_name: Real Madrid | goals: 0.0 | assists: 2 | minutes_played: nan | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Copa del Rey | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: LaLiga | team_name: Real Madrid | goals: 2.0 | assists: 4 | minutes_played: 1082.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Supercopa | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: UEFA Super Cup | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 21/22 | competition_name: LaLiga | team_name: Real Madrid | goals: 1.0 | assists: 3 | minutes_played: 2107.0 | yellow_cards: 4 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3262 | matches: 114 | goals: 17 | shirt_number: 8 | career_state: RETIRED_NATIONAL_PLAYER | coach_id: 495.0 | debut_game_id: 982185.0
+ - team_id: 3817 | matches: 10 | goals: 2 | shirt_number: 10 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 1454.0 | debut_game_id: 1107382.0
+ - team_id: 5710 | matches: 5 | goals: 3 | shirt_number: 10 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 4044.0 | debut_game_id: 936260.0
+ - team_id: 17662 | matches: 36 | goals: 18 | shirt_number: 10 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 5474.0 | debut_game_id: 3943891.0
+
+Blessures:
+ - season_name: 22/23 | injury_reason: Stomach flu | from_date: 2023-02-10 00:00:00 | end_date: 2023-02-20 00:00:00 | days_missed: 11.0 | games_missed: 3
+ - season_name: 22/23 | injury_reason: influenza | from_date: 2022-08-18 00:00:00 | end_date: 2022-08-22 00:00:00 | days_missed: 5.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: Hamstring injury | from_date: 2022-03-03 00:00:00 | end_date: 2022-03-10 00:00:00 | days_missed: 8.0 | games_missed: 2
+ - season_name: 21/22 | injury_reason: Pubic bone irritation | from_date: 2021-08-02 00:00:00 | end_date: 2021-09-27 00:00:00 | days_missed: 57.0 | games_missed: 11
+ - season_name: 20/21 | injury_reason: Corona virus | from_date: 2021-05-17 00:00:00 | end_date: 2021-05-31 00:00:00 | days_missed: 15.0 | games_missed: 1
+ - season_name: 20/21 | injury_reason: Quarantine | from_date: 2021-05-13 00:00:00 | end_date: 2021-05-17 00:00:00 | days_missed: 5.0 | games_missed: 2
+ - season_name: 20/21 | injury_reason: Rest | from_date: 2021-04-19 00:00:00 | end_date: 2021-04-26 00:00:00 | days_missed: 8.0 | games_missed: 2
+ - season_name: 20/21 | injury_reason: Adductor pain | from_date: 2021-03-22 00:00:00 | end_date: 2021-04-05 00:00:00 | days_missed: 15.0 | games_missed: 4
+ - season_name: 20/21 | injury_reason: Muscle injury | from_date: 2020-09-28 00:00:00 | end_date: 2020-10-12 00:00:00 | days_missed: 15.0 | games_missed: 4
+ - season_name: 19/20 | injury_reason: Adductor injury | from_date: 2019-10-03 00:00:00 | end_date: 2019-10-21 00:00:00 | days_missed: 19.0 | games_missed: 4
+
+Transferts:
+ - transfer_date: 2024-07-06 00:00:00 | from_team_name: Real Madrid | to_team_name: Retired | transfer_type: Transfer | value_at_transfer: 10000000 | transfer_fee: 0
+ - transfer_date: 2014-07-17 00:00:00 | from_team_name: Bayern Munich | to_team_name: Real Madrid | transfer_type: Transfer | value_at_transfer: 42000000 | transfer_fee: 25000000
+ - transfer_date: 2010-06-30 00:00:00 | from_team_name: B. Leverkusen | to_team_name: Bayern Munich | transfer_type: Return from loan | value_at_transfer: 12000000 | transfer_fee: 0
+ - transfer_date: 2009-01-31 00:00:00 | from_team_name: Bayern Munich | to_team_name: B. Leverkusen | transfer_type: Loan | value_at_transfer: 5000000 | transfer_fee: 0
+ - transfer_date: 2007-07-01 00:00:00 | from_team_name: FC Bayern U19 | to_team_name: Bayern Munich | transfer_type: Transfer | value_at_transfer: 100000 | transfer_fee: 0
+ - transfer_date: 2006-07-01 00:00:00 | from_team_name: H. Rostock U17 | to_team_name: FC Bayern U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 2300000
+ - transfer_date: 2004-07-01 00:00:00 | from_team_name: H. Rostock Yth. | to_team_name: H. Rostock U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2002-07-01 00:00:00 | from_team_name: Greifs. SC Yth. | to_team_name: H. Rostock Yth. | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Robert Lewandowski (ID 38253)
+========================================================================================================================
+
+Profil :
+ - player_id: 38253
+ - player_name: Robert Lewandowski
+ - player_slug: robert-lewandowski
+ - date_of_birth: 1988-08-21 00:00:00
+ - country_of_birth: Poland
+ - height: 185.0
+ - is_eu: True
+ - main_position: Attack
+ - sub_position: Centre-Forward
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Poland
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : FC Barcelona (25/26)
+
+Dernière valeur marchande : 12000000.0 (date: 2025-06-08 00:00:00)
+
+Historique valeur marchande :
+ - 2018-06-04 00:00:00 : 90000000.0
+ - 2018-07-15 00:00:00 : 85000000.0
+ - 2018-10-21 00:00:00 : 80000000.0
+ - 2018-12-17 00:00:00 : 70000000.0
+ - 2019-06-04 00:00:00 : 65000000.0
+ - 2019-12-16 00:00:00 : 70000000.0
+ - 2020-04-07 00:00:00 : 56000000.0
+ - 2020-09-15 00:00:00 : 60000000.0
+ - 2021-02-09 00:00:00 : 60000000.0
+ - 2021-05-30 00:00:00 : 60000000.0
+ - 2021-12-21 00:00:00 : 50000000.0
+ - 2022-06-08 00:00:00 : 45000000.0
+ - 2022-11-06 00:00:00 : 45000000.0
+ - 2023-03-22 00:00:00 : 40000000.0
+ - 2023-06-12 00:00:00 : 30000000.0
+ - 2023-12-21 00:00:00 : 20000000.0
+ - 2024-03-20 00:00:00 : 15000000.0
+ - 2024-06-06 00:00:00 : 15000000.0
+ - 2024-12-26 00:00:00 : 15000000.0
+ - 2025-06-08 00:00:00 : 12000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: LaLiga | team_name: FC Barcelona | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: FC Barcelona | goals: 11.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Copa del Rey | team_name: FC Barcelona | goals: 3.0 | assists: 0 | minutes_played: 33.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Supercopa | team_name: FC Barcelona | goals: 1.0 | assists: 1 | minutes_played: 163.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: LaLiga | team_name: FC Barcelona | goals: 27.0 | assists: 2 | minutes_played: 99.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: LaLiga | team_name: FC Barcelona | goals: 19.0 | assists: 8 | minutes_played: 145.0 | yellow_cards: 5 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Champions League | team_name: FC Barcelona | goals: 3.0 | assists: 1 | minutes_played: 245.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Copa del Rey | team_name: FC Barcelona | goals: 2.0 | assists: 0 | minutes_played: 63.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Supercopa | team_name: FC Barcelona | goals: 2.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Supercopa | team_name: FC Barcelona | goals: 2.0 | assists: 1 | minutes_played: 105.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3442 | matches: 160 | goals: 86 | shirt_number: 9 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 2120.0 | debut_game_id: 912053.0
+ - team_id: 9324 | matches: 3 | goals: 0 | shirt_number: 9 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 3047.0 | debut_game_id: 1178289.0
+
+Blessures:
+ - season_name: 25/26 | injury_reason: Muscle injury | from_date: 2025-08-08 00:00:00 | end_date: 2025-08-21 00:00:00 | days_missed: 14.0 | games_missed: 1
+ - season_name: 24/25 | injury_reason: Muscle injury | from_date: 2025-04-19 00:00:00 | end_date: 2025-05-05 00:00:00 | days_missed: 17.0 | games_missed: 5
+ - season_name: 24/25 | injury_reason: Lumbar vertebra problems | from_date: 2024-11-10 00:00:00 | end_date: 2024-11-20 00:00:00 | days_missed: 11.0 | games_missed: 3
+ - season_name: 24/25 | injury_reason: Torn muscle fiber | from_date: 2024-06-11 00:00:00 | end_date: 2024-06-21 00:00:00 | days_missed: 11.0 | games_missed: 2
+ - season_name: 23/24 | injury_reason: Ankle injury | from_date: 2023-10-05 00:00:00 | end_date: 2023-10-27 00:00:00 | days_missed: 23.0 | games_missed: 5
+ - season_name: 22/23 | injury_reason: Hamstring injury | from_date: 2023-02-27 00:00:00 | end_date: 2023-03-11 00:00:00 | days_missed: 13.0 | games_missed: 2
+ - season_name: 21/22 | injury_reason: Rest | from_date: 2021-08-24 00:00:00 | end_date: 2021-08-25 00:00:00 | days_missed: 2.0 | games_missed: 1
+ - season_name: 20/21 | injury_reason: Ligament stretching | from_date: 2021-03-29 00:00:00 | end_date: 2021-04-21 00:00:00 | days_missed: 24.0 | games_missed: 7
+ - season_name: 20/21 | injury_reason: Rest | from_date: 2020-10-30 00:00:00 | end_date: 2020-11-01 00:00:00 | days_missed: 3.0 | games_missed: 1
+ - season_name: 19/20 | injury_reason: Shin injury | from_date: 2020-02-26 00:00:00 | end_date: 2020-03-25 00:00:00 | days_missed: 29.0 | games_missed: 3
+
+Transferts:
+ - transfer_date: 2022-07-19 00:00:00 | from_team_name: Bayern Munich | to_team_name: Barcelona | transfer_type: Transfer | value_at_transfer: 45000000 | transfer_fee: 45000000
+ - transfer_date: 2014-07-01 00:00:00 | from_team_name: Bor. Dortmund | to_team_name: Bayern Munich | transfer_type: Transfer | value_at_transfer: 50000000 | transfer_fee: 0
+ - transfer_date: 2010-07-01 00:00:00 | from_team_name: Lech Poznan | to_team_name: Bor. Dortmund | transfer_type: Transfer | value_at_transfer: 4500000 | transfer_fee: 4750000
+ - transfer_date: 2008-07-01 00:00:00 | from_team_name: Znicz Pruszkow | to_team_name: Lech Poznan | transfer_type: Transfer | value_at_transfer: 500000 | transfer_fee: 380000
+ - transfer_date: 2006-07-01 00:00:00 | from_team_name: Legia II | to_team_name: Znicz Pruszkow | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 15000
+ - transfer_date: 2005-07-01 00:00:00 | from_team_name: Delta Warszawa | to_team_name: Legia II | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2005-01-01 00:00:00 | from_team_name: Varsovia Yth. | to_team_name: Delta Warszawa | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Pelé (ID 48930)
+========================================================================================================================
+
+Profil :
+ - player_id: 48930
+ - player_name: Pelé
+ - player_slug: pele
+ - date_of_birth: 1987-09-14 00:00:00
+ - country_of_birth: Portugal
+ - height: 187.0
+ - is_eu: True
+ - main_position: Midfield
+ - sub_position: Central Midfield
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: retired
+ - nationality_1: Portugal
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : AFC Eskilstuna (2018)
+
+Dernière valeur marchande : 0.0 (date: 2018-12-31 00:00:00)
+
+Historique valeur marchande :
+ - 2009-02-22 00:00:00 : 4500000.0
+ - 2009-06-24 00:00:00 : 4000000.0
+ - 2009-07-22 00:00:00 : 3200000.0
+ - 2009-11-30 00:00:00 : 2800000.0
+ - 2010-04-05 00:00:00 : 2800000.0
+ - 2010-08-19 00:00:00 : 2500000.0
+ - 2011-01-20 00:00:00 : 1500000.0
+ - 2011-06-30 00:00:00 : 1800000.0
+ - 2012-01-08 00:00:00 : 1200000.0
+ - 2012-06-18 00:00:00 : 1200000.0
+ - 2013-01-05 00:00:00 : 700000.0
+ - 2013-12-01 00:00:00 : 600000.0
+ - 2014-03-27 00:00:00 : 1000000.0
+ - 2014-11-10 00:00:00 : 800000.0
+ - 2015-05-09 00:00:00 : 700000.0
+ - 2016-05-04 00:00:00 : 750000.0
+ - 2016-12-29 00:00:00 : 500000.0
+ - 2017-05-03 00:00:00 : 450000.0
+ - 2018-11-21 00:00:00 : 100000.0
+ - 2018-12-31 00:00:00 : 0.0
+
+Performances club (10 dernières):
+ - season_name: 2018 | competition_name: Superettan | team_name: AFC Eskilstuna | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 18/19 | competition_name: Svenska Cupen | team_name: AFC Eskilstuna | goals: 1.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 16/17 | competition_name: Protathlima Cyta | team_name: Anorthosis Famagusta | goals: 2.0 | assists: 0 | minutes_played: 409.0 | yellow_cards: 4 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 15/16 | competition_name: Champions Round | team_name: Anorthosis Famagusta | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 15/16 | competition_name: Protathlima Cyta | team_name: Anorthosis Famagusta | goals: 5.0 | assists: 0 | minutes_played: 221.0 | yellow_cards: 4 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 14/15 | competition_name: Super League 1 | team_name: APO Levadiakos | goals: 1.0 | assists: 2 | minutes_played: 776.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 14/15 | competition_name: Kypello Elladas | team_name: Olympiacos Piraeus | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 13/14 | competition_name: Super League 1 | team_name: Olympiacos Piraeus | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 13/14 | competition_name: Kypello Elladas | team_name: Olympiacos Piraeus | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 13/14 | competition_name: Super League 1 | team_name: GS Ergotelis | goals: 3.0 | assists: 0 | minutes_played: 294.0 | yellow_cards: 7 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 16373 | matches: 12 | goals: 0 | shirt_number: 8 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 16374 | matches: 12 | goals: 2 | shirt_number: 4 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 6186.0 | debut_game_id: 2759545.0
+ - team_id: 53246 | matches: 1 | goals: 0 | shirt_number: 6 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 10563.0 | debut_game_id: 4350443.0
+ - team_id: 91523 | matches: 3 | goals: 0 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+
+Blessures:
+ - season_name: 16/17 | injury_reason: unknown injury | from_date: 2017-01-10 00:00:00 | end_date: 2017-03-13 00:00:00 | days_missed: 63.0 | games_missed: 9
+
+Transferts:
+ - transfer_date: 2019-01-10 00:00:00 | from_team_name: D. Calarasi | to_team_name: Retired | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2019-01-01 00:00:00 | from_team_name: AFC Eskilstuna | to_team_name: D. Calarasi | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2018-07-23 00:00:00 | from_team_name: Without Club | to_team_name: AFC Eskilstuna | transfer_type: Transfer | value_at_transfer: 450000 | transfer_fee: 0
+ - transfer_date: 2017-07-01 00:00:00 | from_team_name: Anorthosis | to_team_name: Without Club | transfer_type: Transfer | value_at_transfer: 450000 | transfer_fee: 0
+ - transfer_date: 2015-08-31 00:00:00 | from_team_name: Olympiacos | to_team_name: Anorthosis | transfer_type: Transfer | value_at_transfer: 700000 | transfer_fee: 0
+ - transfer_date: 2015-06-30 00:00:00 | from_team_name: APO Levadiakos | to_team_name: Olympiacos | transfer_type: Return from loan | value_at_transfer: 700000 | transfer_fee: 0
+ - transfer_date: 2015-02-02 00:00:00 | from_team_name: Olympiacos | to_team_name: APO Levadiakos | transfer_type: Loan | value_at_transfer: 800000 | transfer_fee: 0
+ - transfer_date: 2014-01-01 00:00:00 | from_team_name: Ergotelis | to_team_name: Olympiacos | transfer_type: Transfer | value_at_transfer: 600000 | transfer_fee: 440000
+ - transfer_date: 2013-08-13 00:00:00 | from_team_name: Without Club | to_team_name: Ergotelis | transfer_type: Transfer | value_at_transfer: 700000 | transfer_fee: 0
+ - transfer_date: 2012-08-26 00:00:00 | from_team_name: Eskisehirspor | to_team_name: Without Club | transfer_type: Transfer | value_at_transfer: 1200000 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Neymar (ID 68290)
+========================================================================================================================
+
+Profil :
+ - player_id: 68290
+ - player_name: Neymar
+ - player_slug: neymar
+ - date_of_birth: 1992-02-05 00:00:00
+ - country_of_birth: Brazil
+ - height: 175.0
+ - is_eu: False
+ - main_position: Midfield
+ - sub_position: Attacking Midfield
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Brazil
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : Al-Hilal SFC (24/25)
+
+Dernière valeur marchande : 11000000.0 (date: 2025-09-04 00:00:00)
+
+Historique valeur marchande :
+ - 2018-01-23 00:00:00 : 180000000.0
+ - 2018-06-03 00:00:00 : 180000000.0
+ - 2018-12-16 00:00:00 : 180000000.0
+ - 2019-06-02 00:00:00 : 180000000.0
+ - 2019-12-18 00:00:00 : 160000000.0
+ - 2020-04-07 00:00:00 : 128000000.0
+ - 2020-10-14 00:00:00 : 128000000.0
+ - 2021-04-08 00:00:00 : 110000000.0
+ - 2021-06-03 00:00:00 : 100000000.0
+ - 2021-12-15 00:00:00 : 90000000.0
+ - 2022-05-29 00:00:00 : 75000000.0
+ - 2022-11-01 00:00:00 : 75000000.0
+ - 2023-03-26 00:00:00 : 70000000.0
+ - 2023-06-26 00:00:00 : 60000000.0
+ - 2023-10-23 00:00:00 : 50000000.0
+ - 2023-12-14 00:00:00 : 45000000.0
+ - 2024-06-03 00:00:00 : 30000000.0
+ - 2024-12-12 00:00:00 : 15000000.0
+ - 2025-06-05 00:00:00 : 12000000.0
+ - 2025-09-04 00:00:00 : 11000000.0
+
+Performances club (10 dernières):
+ - season_name: 24/25 | competition_name: AFC Champions League | team_name: Al-Hilal SFC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: AFC Champions League | team_name: Al-Hilal SFC | goals: 1.0 | assists: 0 | minutes_played: 180.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Saudi Pro League | team_name: Al-Hilal SFC | goals: 0.0 | assists: 3 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 13.0 | assists: 11 | minutes_played: 119.0 | yellow_cards: 4 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Champions League | team_name: Paris Saint-Germain | goals: 2.0 | assists: 3 | minutes_played: 270.0 | yellow_cards: 4 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Coupe de France | team_name: Paris Saint-Germain | goals: 1.0 | assists: 3 | minutes_played: 180.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Trophée des Champions | team_name: Paris Saint-Germain | goals: 2.0 | assists: 0 | minutes_played: 45.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 21/22 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 13.0 | assists: 6 | minutes_played: 143.0 | yellow_cards: 10 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 21/22 | competition_name: Champions League | team_name: Paris Saint-Germain | goals: 0.0 | assists: 2 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 2025 | competition_name: Série A | team_name: Santos FC | goals: 3.0 | assists: 0 | minutes_played: 300.0 | yellow_cards: 4 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3439 | matches: 128 | goals: 79 | shirt_number: 10 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 4734.0 | debut_game_id: 1043987.0
+ - team_id: 7658 | matches: 7 | goals: 9 | shirt_number: 11 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 23130 | matches: 3 | goals: 1 | shirt_number: 11 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: 975088.0
+ - team_id: 53818 | matches: 12 | goals: 7 | shirt_number: 10 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 4734.0 | debut_game_id: 2688684.0
+
+Blessures:
+ - season_name: 24/25 | injury_reason: Hamstring injury | from_date: 2025-04-17 00:00:00 | end_date: 2025-05-21 00:00:00 | days_missed: 35.0 | games_missed: 7
+ - season_name: 24/25 | injury_reason: Hamstring injury | from_date: 2025-03-04 00:00:00 | end_date: 2025-04-12 00:00:00 | days_missed: 40.0 | games_missed: 3
+ - season_name: 24/25 | injury_reason: Fitness | from_date: 2024-12-17 00:00:00 | end_date: 2025-02-03 00:00:00 | days_missed: 49.0 | games_missed: 7
+ - season_name: 24/25 | injury_reason: Hamstring injury | from_date: 2024-11-04 00:00:00 | end_date: 2024-12-16 00:00:00 | days_missed: 43.0 | games_missed: 7
+ - season_name: 24/25 | injury_reason: Fitness | from_date: 2024-09-23 00:00:00 | end_date: 2024-11-03 00:00:00 | days_missed: 42.0 | games_missed: 9
+ - season_name: 23/24 | injury_reason: Cruciate ligament tear | from_date: 2023-10-19 00:00:00 | end_date: 2024-09-22 00:00:00 | days_missed: 340.0 | games_missed: 48
+ - season_name: 23/24 | injury_reason: muscular problems | from_date: 2023-08-04 00:00:00 | end_date: 2023-09-03 00:00:00 | days_missed: 31.0 | games_missed: 5
+ - season_name: 22/23 | injury_reason: Ankle surgery | from_date: 2023-02-20 00:00:00 | end_date: 2023-06-30 00:00:00 | days_missed: 131.0 | games_missed: 15
+ - season_name: 22/23 | injury_reason: Ankle injury | from_date: 2022-11-25 00:00:00 | end_date: 2022-12-04 00:00:00 | days_missed: 10.0 | games_missed: 2
+ - season_name: 21/22 | injury_reason: Ankle injury | from_date: 2021-11-29 00:00:00 | end_date: 2022-02-13 00:00:00 | days_missed: 77.0 | games_missed: 15
+
+Transferts:
+ - transfer_date: 2025-01-31 00:00:00 | from_team_name: Al-Hilal | to_team_name: Santos | transfer_type: Transfer | value_at_transfer: 15000000 | transfer_fee: 0
+ - transfer_date: 2023-08-15 00:00:00 | from_team_name: Paris SG | to_team_name: Al-Hilal | transfer_type: Transfer | value_at_transfer: 60000000 | transfer_fee: 90000000
+ - transfer_date: 2017-08-03 00:00:00 | from_team_name: Barcelona | to_team_name: Paris SG | transfer_type: Transfer | value_at_transfer: 100000000 | transfer_fee: 222000000
+ - transfer_date: 2013-07-01 00:00:00 | from_team_name: Santos | to_team_name: Barcelona | transfer_type: Transfer | value_at_transfer: 50000000 | transfer_fee: 88000000
+ - transfer_date: 2009-01-01 00:00:00 | from_team_name: Santos U20 | to_team_name: Santos | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Gavi (ID 646740)
+========================================================================================================================
+
+Profil :
+ - player_id: 646740
+ - player_name: Gavi
+ - player_slug: gavi
+ - date_of_birth: 2004-08-05 00:00:00
+ - country_of_birth: Spain
+ - height: 173.0
+ - is_eu: True
+ - main_position: Midfield
+ - sub_position: Central Midfield
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Spain
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : FC Barcelona (25/26)
+
+Dernière valeur marchande : 60000000.0 (date: 2025-06-08 00:00:00)
+
+Historique valeur marchande :
+ - 2021-10-12 00:00:00 : 25000000.0
+ - 2021-12-29 00:00:00 : 40000000.0
+ - 2022-03-20 00:00:00 : 60000000.0
+ - 2022-06-02 00:00:00 : 60000000.0
+ - 2022-09-22 00:00:00 : 70000000.0
+ - 2022-11-06 00:00:00 : 90000000.0
+ - 2023-06-12 00:00:00 : 90000000.0
+ - 2023-12-21 00:00:00 : 90000000.0
+ - 2024-06-06 00:00:00 : 90000000.0
+ - 2024-12-26 00:00:00 : 80000000.0
+ - 2025-03-20 00:00:00 : 70000000.0
+ - 2025-06-08 00:00:00 : 60000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: LaLiga | team_name: FC Barcelona | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: FC Barcelona | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Copa del Rey | team_name: FC Barcelona | goals: 1.0 | assists: 0 | minutes_played: 174.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Supercopa | team_name: FC Barcelona | goals: 1.0 | assists: 2 | minutes_played: 132.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: LaLiga | team_name: FC Barcelona | goals: 1.0 | assists: 1 | minutes_played: 1083.0 | yellow_cards: 4 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Champions League | team_name: FC Barcelona | goals: 1.0 | assists: 0 | minutes_played: 229.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: LaLiga | team_name: FC Barcelona | goals: 1.0 | assists: 1 | minutes_played: 943.0 | yellow_cards: 5 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Europa League | team_name: FC Barcelona | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Champions League | team_name: FC Barcelona | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Supercopa | team_name: FC Barcelona | goals: 1.0 | assists: 2 | minutes_played: 186.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3375 | matches: 28 | goals: 5 | shirt_number: 9 | career_state: RECENT_NATIONAL_PLAYER | coach_id: 6499.0 | debut_game_id: 3494366.0
+ - team_id: 20947 | matches: 3 | goals: 0 | shirt_number: 8 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 65794.0 | debut_game_id: 3653147.0
+ - team_id: 33775 | matches: 7 | goals: 0 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 19405.0 | debut_game_id: 3287718.0
+ - team_id: 70910 | matches: 4 | goals: 1 | shirt_number: 0 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 19405.0 | debut_game_id: 3154436.0
+
+Blessures:
+ - season_name: 25/26 | injury_reason: Knee injury | from_date: 2025-08-29 00:00:00 | end_date: NaT | days_missed: 16.0 | games_missed: 1
+ - season_name: 24/25 | injury_reason: concussion | from_date: 2025-02-03 00:00:00 | end_date: 2025-02-08 00:00:00 | days_missed: 6.0 | games_missed: 1
+ - season_name: 24/25 | injury_reason: Fitness | from_date: 2024-10-01 00:00:00 | end_date: 2024-10-19 00:00:00 | days_missed: 19.0 | games_missed: 2
+ - season_name: 23/24 | injury_reason: Cruciate ligament tear | from_date: 2023-11-20 00:00:00 | end_date: 2024-09-30 00:00:00 | days_missed: 316.0 | games_missed: 45
+ - season_name: 21/22 | injury_reason: Corona virus | from_date: 2021-12-29 00:00:00 | end_date: 2022-01-07 00:00:00 | days_missed: 10.0 | games_missed: 2
+ - season_name: 21/22 | injury_reason: Broken jaw | from_date: 2021-08-05 00:00:00 | end_date: 2021-08-14 00:00:00 | days_missed: 10.0 | games_missed: 0
+ - season_name: 20/21 | injury_reason: Knee injury | from_date: 2021-03-15 00:00:00 | end_date: 2021-04-10 00:00:00 | days_missed: 27.0 | games_missed: 3
+
+Transferts:
+ - transfer_date: 2021-07-01 00:00:00 | from_team_name: Barça U19 | to_team_name: Barcelona | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2020-07-01 00:00:00 | from_team_name: Barça U16 | to_team_name: Barça U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2019-07-01 00:00:00 | from_team_name: Barça Youth | to_team_name: Barça U16 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2015-07-01 00:00:00 | from_team_name: Real Betis Yth. | to_team_name: Barça Youth | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 10000
+
+========================================================================================================================
+JOUEUR : Cristiano Ronaldo (ID 8198)
+========================================================================================================================
+
+Profil :
+ - player_id: 8198
+ - player_name: Cristiano Ronaldo
+ - player_slug: cristiano-ronaldo
+ - date_of_birth: 1985-02-05 00:00:00
+ - country_of_birth: Portugal
+ - height: 188.0
+ - is_eu: True
+ - main_position: Attack
+ - sub_position: Centre-Forward
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Portugal
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : Al-Nassr FC (25/26)
+
+Dernière valeur marchande : 12000000.0 (date: 2025-05-26 00:00:00)
+
+Historique valeur marchande :
+ - 2017-06-04 00:00:00 : 100000000.0
+ - 2017-12-31 00:00:00 : 120000000.0
+ - 2018-05-29 00:00:00 : 100000000.0
+ - 2018-12-19 00:00:00 : 100000000.0
+ - 2019-06-05 00:00:00 : 90000000.0
+ - 2019-12-11 00:00:00 : 75000000.0
+ - 2020-04-07 00:00:00 : 60000000.0
+ - 2020-08-24 00:00:00 : 60000000.0
+ - 2020-12-28 00:00:00 : 60000000.0
+ - 2021-03-22 00:00:00 : 50000000.0
+ - 2021-05-31 00:00:00 : 45000000.0
+ - 2021-12-22 00:00:00 : 35000000.0
+ - 2022-06-14 00:00:00 : 30000000.0
+ - 2022-09-14 00:00:00 : 20000000.0
+ - 2022-11-02 00:00:00 : 20000000.0
+ - 2023-06-11 00:00:00 : 15000000.0
+ - 2023-12-14 00:00:00 : 15000000.0
+ - 2024-06-03 00:00:00 : 15000000.0
+ - 2024-12-12 00:00:00 : 12000000.0
+ - 2025-05-26 00:00:00 : 12000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: Saudi Pro League | team_name: Al-Nassr FC | goals: 1.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 25/26 | competition_name: Saudi Super Cup | team_name: Al-Nassr FC | goals: 1.0 | assists: 1 | minutes_played: 180.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Saudi Pro League | team_name: Al-Nassr FC | goals: 25.0 | assists: 3 | minutes_played: 105.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: AFC Champions League | team_name: Al-Nassr FC | goals: 8.0 | assists: 0 | minutes_played: 83.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: King's Cup | team_name: Al-Nassr FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Saudi Super Cup | team_name: Al-Nassr FC | goals: 2.0 | assists: 1 | minutes_played: 86.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: King's Cup | team_name: Al-Nassr FC | goals: 3.0 | assists: 0 | minutes_played: 137.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Saudi Pro League | team_name: Al-Nassr FC | goals: 35.0 | assists: 11 | minutes_played: 76.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Saudi Super Cup | team_name: Al-Nassr FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 1 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: AFC Champions League | team_name: Al-Nassr FC | goals: 6.0 | assists: 1 | minutes_played: 123.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3300 | matches: 223 | goals: 141 | shirt_number: 7 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 1068.0 | debut_game_id: 2266024.0
+ - team_id: 16373 | matches: 5 | goals: 1 | shirt_number: 7 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 6186.0 | debut_game_id: 4404154.0
+ - team_id: 16374 | matches: 10 | goals: 3 | shirt_number: 7 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 6186.0 | debut_game_id: 2290835.0
+ - team_id: 23137 | matches: 7 | goals: 5 | shirt_number: 7 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 78875.0 | debut_game_id: 4417419.0
+ - team_id: 30503 | matches: 9 | goals: 7 | shirt_number: 7 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 79482.0 | debut_game_id: 4425928.0
+ - team_id: 53807 | matches: 3 | goals: 2 | shirt_number: 7 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 39234.0 | debut_game_id: 3676299.0
+
+Blessures:
+ - season_name: 24/25 | injury_reason: Muscle strain | from_date: 2025-05-11 00:00:00 | end_date: 2025-05-19 00:00:00 | days_missed: 9.0 | games_missed: 2
+ - season_name: 24/25 | injury_reason: Abdominal problems | from_date: 2024-12-15 00:00:00 | end_date: 2024-12-31 00:00:00 | days_missed: 17.0 | games_missed: 0
+ - season_name: 24/25 | injury_reason: Virus | from_date: 2024-09-15 00:00:00 | end_date: 2024-09-18 00:00:00 | days_missed: 4.0 | games_missed: 1
+ - season_name: 23/24 | injury_reason: unknown injury | from_date: 2024-01-23 00:00:00 | end_date: 2024-02-11 00:00:00 | days_missed: 20.0 | games_missed: 0
+ - season_name: 22/23 | injury_reason: Ill | from_date: 2022-11-09 00:00:00 | end_date: 2022-11-18 00:00:00 | days_missed: 10.0 | games_missed: 3
+ - season_name: 21/22 | injury_reason: Rest | from_date: 2022-06-09 00:00:00 | end_date: 2022-06-13 00:00:00 | days_missed: 5.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: Hip flexor problems | from_date: 2022-03-03 00:00:00 | end_date: 2022-03-07 00:00:00 | days_missed: 5.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: Hip flexor problems | from_date: 2022-01-10 00:00:00 | end_date: 2022-01-17 00:00:00 | days_missed: 8.0 | games_missed: 2
+ - season_name: 21/22 | injury_reason: Arm injury | from_date: 2021-08-26 00:00:00 | end_date: 2021-08-30 00:00:00 | days_missed: 5.0 | games_missed: 1
+ - season_name: 20/21 | injury_reason: Hip flexor problems | from_date: 2021-04-15 00:00:00 | end_date: 2021-04-19 00:00:00 | days_missed: 5.0 | games_missed: 1
+
+Transferts:
+ - transfer_date: 2023-01-01 00:00:00 | from_team_name: Without Club | to_team_name: Al-Nassr | transfer_type: Transfer | value_at_transfer: 20000000 | transfer_fee: 0
+ - transfer_date: 2022-11-22 00:00:00 | from_team_name: Man Utd | to_team_name: Without Club | transfer_type: Transfer | value_at_transfer: 20000000 | transfer_fee: 0
+ - transfer_date: 2021-08-31 00:00:00 | from_team_name: Juventus | to_team_name: Man Utd | transfer_type: Transfer | value_at_transfer: 45000000 | transfer_fee: 17000000
+ - transfer_date: 2018-07-10 00:00:00 | from_team_name: Real Madrid | to_team_name: Juventus | transfer_type: Transfer | value_at_transfer: 100000000 | transfer_fee: 117000000
+ - transfer_date: 2009-07-06 00:00:00 | from_team_name: Man Utd | to_team_name: Real Madrid | transfer_type: Transfer | value_at_transfer: 60000000 | transfer_fee: 94000000
+ - transfer_date: 2003-08-12 00:00:00 | from_team_name: Sporting CP | to_team_name: Man Utd | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 19000000
+ - transfer_date: 2002-07-01 00:00:00 | from_team_name: Sporting U19 | to_team_name: Sporting CP | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2000-07-01 00:00:00 | from_team_name: Sporting U17 | to_team_name: Sporting U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 1998-07-01 00:00:00 | from_team_name: Sporting Sub-15 | to_team_name: Sporting U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 1997-07-01 00:00:00 | from_team_name: Nacional U15 | to_team_name: Sporting Sub-15 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 2000
+
+========================================================================================================================
+JOUEUR : Kevin De Bruyne (ID 88755)
+========================================================================================================================
+
+Profil :
+ - player_id: 88755
+ - player_name: Kevin De Bruyne
+ - player_slug: kevin-de-bruyne
+ - date_of_birth: 1991-06-28 00:00:00
+ - country_of_birth: Belgium
+ - height: 181.0
+ - is_eu: True
+ - main_position: Midfield
+ - sub_position: Attacking Midfield
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: active
+ - nationality_1: Belgium
+ - nationality_2: NaN
+ - has_dual_nationality: False
+
+Club le plus récent : SSC Napoli (25/26)
+
+Dernière valeur marchande : 20000000.0 (date: 2025-05-29 00:00:00)
+
+Historique valeur marchande :
+ - 2017-10-22 00:00:00 : 75000000.0
+ - 2018-01-01 00:00:00 : 110000000.0
+ - 2018-05-27 00:00:00 : 150000000.0
+ - 2018-12-18 00:00:00 : 150000000.0
+ - 2019-06-12 00:00:00 : 130000000.0
+ - 2019-12-09 00:00:00 : 150000000.0
+ - 2020-04-07 00:00:00 : 120000000.0
+ - 2020-10-12 00:00:00 : 120000000.0
+ - 2021-03-17 00:00:00 : 100000000.0
+ - 2021-05-25 00:00:00 : 100000000.0
+ - 2021-12-22 00:00:00 : 90000000.0
+ - 2022-06-14 00:00:00 : 85000000.0
+ - 2022-11-02 00:00:00 : 80000000.0
+ - 2023-06-19 00:00:00 : 70000000.0
+ - 2023-12-18 00:00:00 : 60000000.0
+ - 2024-05-26 00:00:00 : 50000000.0
+ - 2024-09-30 00:00:00 : 45000000.0
+ - 2024-12-15 00:00:00 : 35000000.0
+ - 2025-03-17 00:00:00 : 27000000.0
+ - 2025-05-29 00:00:00 : 20000000.0
+
+Performances club (10 dernières):
+ - season_name: 25/26 | competition_name: Serie A | team_name: SSC Napoli | goals: 1.0 | assists: 0 | minutes_played: 171.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: FA Cup | team_name: Manchester City | goals: 2.0 | assists: 1 | minutes_played: 144.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Champions League | team_name: Manchester City | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Community Shield | team_name: Manchester City | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 24/25 | competition_name: Premier League | team_name: Manchester City | goals: 4.0 | assists: 7 | minutes_played: 426.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: FA Cup | team_name: Manchester City | goals: 0.0 | assists: 5 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Premier League | team_name: Manchester City | goals: 4.0 | assists: 10 | minutes_played: 307.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Champions League | team_name: Manchester City | goals: 2.0 | assists: 2 | minutes_played: 101.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 23/24 | competition_name: Community Shield | team_name: Manchester City | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: EFL Cup | team_name: Manchester City | goals: 0.0 | assists: 2 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3382 | matches: 113 | goals: 34 | shirt_number: 7 | career_state: CURRENT_NATIONAL_PLAYER | coach_id: 1752.0 | debut_game_id: 1029793.0
+ - team_id: 9315 | matches: 2 | goals: 0 | shirt_number: 10 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 3203.0 | debut_game_id: 2789305.0
+ - team_id: 16337 | matches: 7 | goals: 1 | shirt_number: 10 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+ - team_id: 16338 | matches: 10 | goals: 1 | shirt_number: 14 | career_state: FORMER_NATIONAL_PLAYER | coach_id: nan | debut_game_id: nan
+
+Blessures:
+ - season_name: 24/25 | injury_reason: Hamstring muscle injury | from_date: 2024-09-18 00:00:00 | end_date: 2024-10-31 00:00:00 | days_missed: 44.0 | games_missed: 12
+ - season_name: 23/24 | injury_reason: stomach problems | from_date: 2024-04-09 00:00:00 | end_date: 2024-04-10 00:00:00 | days_missed: 2.0 | games_missed: 1
+ - season_name: 23/24 | injury_reason: Groin strain | from_date: 2024-03-10 00:00:00 | end_date: 2024-03-18 00:00:00 | days_missed: 9.0 | games_missed: 2
+ - season_name: 23/24 | injury_reason: Fitness | from_date: 2023-12-18 00:00:00 | end_date: 2023-12-29 00:00:00 | days_missed: 12.0 | games_missed: 3
+ - season_name: 23/24 | injury_reason: Hamstring injury | from_date: 2023-08-12 00:00:00 | end_date: 2023-12-17 00:00:00 | days_missed: 128.0 | games_missed: 30
+ - season_name: 22/23 | injury_reason: Foot bruise | from_date: 2023-04-26 00:00:00 | end_date: 2023-05-04 00:00:00 | days_missed: 9.0 | games_missed: 3
+ - season_name: 22/23 | injury_reason: Ill | from_date: 2023-02-21 00:00:00 | end_date: 2023-02-24 00:00:00 | days_missed: 4.0 | games_missed: 1
+ - season_name: 21/22 | injury_reason: Corona virus | from_date: 2021-11-19 00:00:00 | end_date: 2021-12-03 00:00:00 | days_missed: 15.0 | games_missed: 4
+ - season_name: 21/22 | injury_reason: Ankle injury | from_date: 2021-08-01 00:00:00 | end_date: 2021-09-10 00:00:00 | days_missed: 41.0 | games_missed: 7
+ - season_name: 20/21 | injury_reason: Facial fracture | from_date: 2021-05-29 00:00:00 | end_date: 2021-06-14 00:00:00 | days_missed: 17.0 | games_missed: 4
+
+Transferts:
+ - transfer_date: 2025-07-01 00:00:00 | from_team_name: Man City | to_team_name: Napoli | transfer_type: Transfer | value_at_transfer: 20000000 | transfer_fee: 0
+ - transfer_date: 2015-08-30 00:00:00 | from_team_name: VfL Wolfsburg | to_team_name: Man City | transfer_type: Transfer | value_at_transfer: 45000000 | transfer_fee: 76000000
+ - transfer_date: 2014-01-18 00:00:00 | from_team_name: Chelsea | to_team_name: VfL Wolfsburg | transfer_type: Transfer | value_at_transfer: 15000000 | transfer_fee: 22000000
+ - transfer_date: 2013-06-30 00:00:00 | from_team_name: Werder Bremen | to_team_name: Chelsea | transfer_type: Return from loan | value_at_transfer: 10000000 | transfer_fee: 0
+ - transfer_date: 2012-08-02 00:00:00 | from_team_name: Chelsea | to_team_name: Werder Bremen | transfer_type: Loan | value_at_transfer: 9000000 | transfer_fee: 0
+ - transfer_date: 2012-06-30 00:00:00 | from_team_name: KRC Genk | to_team_name: Chelsea | transfer_type: Return from loan | value_at_transfer: 9000000 | transfer_fee: 0
+ - transfer_date: 2012-02-01 00:00:00 | from_team_name: Chelsea | to_team_name: KRC Genk | transfer_type: Loan | value_at_transfer: 9000000 | transfer_fee: 0
+ - transfer_date: 2012-01-31 00:00:00 | from_team_name: KRC Genk | to_team_name: Chelsea | transfer_type: Transfer | value_at_transfer: 9000000 | transfer_fee: 8000000
+ - transfer_date: 2008-07-01 00:00:00 | from_team_name: KRC Genk U19 | to_team_name: KRC Genk | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+ - transfer_date: 2007-07-01 00:00:00 | from_team_name: KRC Genk U17 | to_team_name: KRC Genk U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
+
+========================================================================================================================
+JOUEUR : Pelé (ID 99189)
+========================================================================================================================
+
+Profil :
+ - player_id: 99189
+ - player_name: Pelé
+ - player_slug: pele
+ - date_of_birth: 1991-09-29 00:00:00
+ - country_of_birth: Guinea-Bissau
+ - height: 182.0
+ - is_eu: True
+ - main_position: Midfield
+ - sub_position: Defensive Midfield
+ - foot: right
+ - date_of_death: NaN
+ - suspected_duplicate: False
+ - is_dead: False
+ - current_status: retired
+ - nationality_1: Guinea-Bissau
+ - nationality_2: Portugal
+ - has_dual_nationality: True
+
+Club le plus récent : FC Famalicão (22/23)
+
+Dernière valeur marchande : 0.0 (date: 2023-06-30 00:00:00)
+
+Historique valeur marchande :
+ - 2017-11-05 00:00:00 : 2000000.0
+ - 2018-02-06 00:00:00 : 2000000.0
+ - 2018-06-12 00:00:00 : 4000000.0
+ - 2018-09-05 00:00:00 : 8000000.0
+ - 2018-10-23 00:00:00 : 6000000.0
+ - 2018-12-16 00:00:00 : 6000000.0
+ - 2019-06-27 00:00:00 : 4500000.0
+ - 2019-10-16 00:00:00 : 3500000.0
+ - 2020-02-26 00:00:00 : 3500000.0
+ - 2020-04-07 00:00:00 : 2800000.0
+ - 2020-10-21 00:00:00 : 2800000.0
+ - 2021-01-27 00:00:00 : 2800000.0
+ - 2021-05-20 00:00:00 : 2000000.0
+ - 2021-10-07 00:00:00 : 1500000.0
+ - 2021-12-15 00:00:00 : 1500000.0
+ - 2022-05-29 00:00:00 : 1000000.0
+ - 2022-10-31 00:00:00 : 1000000.0
+ - 2023-03-01 00:00:00 : 800000.0
+ - 2023-06-15 00:00:00 : 600000.0
+ - 2023-06-30 00:00:00 : 0.0
+
+Performances club (10 dernières):
+ - season_name: 22/23 | competition_name: Liga Portugal | team_name: FC Famalicão | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Allianz Cup | team_name: FC Famalicão | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 22/23 | competition_name: Taça de Portugal | team_name: FC Famalicão | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 20/21 | competition_name: Play-Off Liga Portugal | team_name: Rio Ave FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 20/21 | competition_name: Liga NOS | team_name: Rio Ave FC | goals: 2.0 | assists: 1 | minutes_played: 930.0 | yellow_cards: 5 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 20/21 | competition_name: Taça de Portugal | team_name: Rio Ave FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 19/20 | competition_name: Championship | team_name: Reading FC | goals: 1.0 | assists: 1 | minutes_played: 2178.0 | yellow_cards: 7 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 19/20 | competition_name: FA Cup | team_name: Reading FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 19/20 | competition_name: EFL Cup | team_name: Reading FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+ - season_name: 18/19 | competition_name: Coupe de France | team_name: AS Monaco | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
+
+Performances internationales:
+ - team_id: 3701 | matches: 20 | goals: 1 | shirt_number: 10 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 51307.0 | debut_game_id: 2843474.0
+ - team_id: 16371 | matches: 3 | goals: 1 | shirt_number: 16 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 79482.0 | debut_game_id: 3921776.0
+ - team_id: 16372 | matches: 11 | goals: 0 | shirt_number: 6 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 10565.0 | debut_game_id: 3921770.0
+ - team_id: 16373 | matches: 19 | goals: 1 | shirt_number: 2 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 10565.0 | debut_game_id: 3905146.0
+ - team_id: 16374 | matches: 3 | goals: 0 | shirt_number: 14 | career_state: FORMER_NATIONAL_PLAYER | coach_id: 10104.0 | debut_game_id: 1143622.0
+
+Blessures:
+ - season_name: 20/21 | injury_reason: Muscle injury | from_date: 2021-01-09 00:00:00 | end_date: 2021-01-27 00:00:00 | days_missed: 19.0 | games_missed: 3
+ - season_name: 19/20 | injury_reason: Groin injury | from_date: 2020-02-12 00:00:00 | end_date: 2020-02-29 00:00:00 | days_missed: 18.0 | games_missed: 5
+ - season_name: 17/18 | injury_reason: unknown injury | from_date: 2017-08-31 00:00:00 | end_date: 2017-09-18 00:00:00 | days_missed: 19.0 | games_missed: 3
+ - season_name: 16/17 | injury_reason: Broken foot | from_date: 2016-07-30 00:00:00 | end_date: 2017-05-10 00:00:00 | days_missed: 285.0 | games_missed: 0
+
+Transferts:
+ - transfer_date: 2023-07-01 00:00:00 | from_team_name: Monaco | to_team_name: Retired | transfer_type: Transfer | value_at_transfer: 600000 | transfer_fee: 0
+ - transfer_date: 2023-06-30 00:00:00 | from_team_name: Famalicão | to_team_name: Monaco | transfer_type: Return from loan | value_at_transfer: 600000 | transfer_fee: 0
+ - transfer_date: 2022-08-05 00:00:00 | from_team_name: Monaco | to_team_name: Famalicão | transfer_type: Loan | value_at_transfer: 1000000 | transfer_fee: 0
+ - transfer_date: 2021-06-30 00:00:00 | from_team_name: Rio Ave | to_team_name: Monaco | transfer_type: Return from loan | value_at_transfer: 2000000 | transfer_fee: 0
+ - transfer_date: 2020-09-29 00:00:00 | from_team_name: Monaco | to_team_name: Rio Ave | transfer_type: Loan | value_at_transfer: 2800000 | transfer_fee: 0
+ - transfer_date: 2020-08-05 00:00:00 | from_team_name: Reading | to_team_name: Monaco | transfer_type: Return from loan | value_at_transfer: 2800000 | transfer_fee: 0
+ - transfer_date: 2019-08-06 00:00:00 | from_team_name: Monaco | to_team_name: Reading | transfer_type: Loan | value_at_transfer: 4500000 | transfer_fee: 0
+ - transfer_date: 2019-06-30 00:00:00 | from_team_name: Forest | to_team_name: Monaco | transfer_type: Return from loan | value_at_transfer: 4500000 | transfer_fee: 0
+ - transfer_date: 2019-01-31 00:00:00 | from_team_name: Monaco | to_team_name: Forest | transfer_type: Loan | value_at_transfer: 6000000 | transfer_fee: 0
+ - transfer_date: 2018-07-06 00:00:00 | from_team_name: Rio Ave | to_team_name: Monaco | transfer_type: Transfer | value_at_transfer: 4000000 | transfer_fee: 7200000
+
+
+========================================================================================================================
+LISTE DES ID ET NOMS TROUVÉS
+========================================================================================================================
+108390 : Thibaut Courtois
+122153 : Paul Pogba
+139208 : Virgil van Dijk
+148455 : Mohamed Salah
+18922 : Karim Benzema
+17259 : Manuel Neuer
+340950 : Diogo Jota
+342229 : Kylian Mbappé
+27992 : Luka Modrić
+28003 : Lionel Messi
+288230 : Ousmane Dembélé
+31909 : Toni Kroos
+38253 : Robert Lewandowski
+48930 : Pelé
+68290 : Neymar
+646740 : Gavi
+8198 : Cristiano Ronaldo
+88755 : Kevin De Bruyne
+99189 : Pelé
