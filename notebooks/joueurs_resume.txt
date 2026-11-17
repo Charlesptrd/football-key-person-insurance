@@ -1,53 +1,24 @@
 ========================================================================================================================
-JOUEUR : Thibaut Courtois (ID 108390)
+JOUEUR : Thibaut Courtois (108390) (ID 108390)
 ========================================================================================================================
 
 Profil :
  - player_id: 108390
- - player_name: Thibaut Courtois
+ - player_name: Thibaut Courtois (108390)
  - player_slug: thibaut-courtois
- - date_of_birth: 1992-05-11 00:00:00
+ - date_of_birth: 1992-05-11
  - country_of_birth: Belgium
  - height: 200.0
  - is_eu: True
  - main_position: Goalkeeper
- - sub_position: Goalkeeper
  - foot: left
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Belgium
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : Real Madrid (25/26)
+Club le plus récent: Real Madrid (25/26)
 
-Dernière valeur marchande : 20000000.0 (date: 2025-06-08 00:00:00)
+Dernière valeur marchande: 20000000.0 (date: 2025-06-08 00:00:00)
 
-Historique valeur marchande :
- - 2018-07-15 00:00:00 : 65000000.0
- - 2018-12-20 00:00:00 : 65000000.0
- - 2019-06-10 00:00:00 : 55000000.0
- - 2019-12-19 00:00:00 : 55000000.0
- - 2020-03-04 00:00:00 : 60000000.0
- - 2020-04-07 00:00:00 : 48000000.0
- - 2020-07-22 00:00:00 : 60000000.0
- - 2020-10-07 00:00:00 : 75000000.0
- - 2021-01-04 00:00:00 : 75000000.0
- - 2021-05-25 00:00:00 : 60000000.0
- - 2021-12-29 00:00:00 : 65000000.0
- - 2022-06-02 00:00:00 : 60000000.0
- - 2022-11-06 00:00:00 : 60000000.0
- - 2023-06-12 00:00:00 : 45000000.0
- - 2023-12-21 00:00:00 : 35000000.0
- - 2024-03-20 00:00:00 : 30000000.0
- - 2024-06-06 00:00:00 : 28000000.0
- - 2024-10-10 00:00:00 : 25000000.0
- - 2024-12-26 00:00:00 : 25000000.0
- - 2025-06-08 00:00:00 : 20000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: LaLiga | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 270.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 2
  - season_name: 24/25 | competition_name: LaLiga | team_name: Real Madrid | goals: nan | assists: 1 | minutes_played: 2700.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 11
  - season_name: 24/25 | competition_name: Copa del Rey | team_name: Real Madrid | goals: nan | assists: 0 | minutes_played: 120.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
@@ -85,55 +56,26 @@ Transferts:
  - transfer_date: 2007-07-01 00:00:00 | from_team_name: KRC Genk Youth | to_team_name: KRC Genk U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Paul Pogba (ID 122153)
+JOUEUR : Paul Pogba (122153) (ID 122153)
 ========================================================================================================================
 
 Profil :
  - player_id: 122153
- - player_name: Paul Pogba
+ - player_name: Paul Pogba (122153)
  - player_slug: paul-pogba
- - date_of_birth: 1993-03-15 00:00:00
+ - date_of_birth: 1993-03-15
  - country_of_birth: France
  - height: 191.0
  - is_eu: True
  - main_position: Midfield
- - sub_position: Central Midfield
  - foot: both
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: France
- - nationality_2: Guinea
- - has_dual_nationality: True
 
-Club le plus récent : Juventus FC (23/24)
+Club le plus récent: Juventus FC (23/24)
 
-Dernière valeur marchande : 5000000.0 (date: 2025-06-30 00:00:00)
+Dernière valeur marchande: 5000000.0 (date: 2025-06-30 00:00:00)
 
-Historique valeur marchande :
- - 2017-02-19 00:00:00 : 80000000.0
- - 2017-06-27 00:00:00 : 75000000.0
- - 2018-01-01 00:00:00 : 90000000.0
- - 2018-05-27 00:00:00 : 90000000.0
- - 2018-12-18 00:00:00 : 80000000.0
- - 2019-03-04 00:00:00 : 90000000.0
- - 2019-06-12 00:00:00 : 100000000.0
- - 2019-12-09 00:00:00 : 100000000.0
- - 2020-04-07 00:00:00 : 80000000.0
- - 2020-10-12 00:00:00 : 80000000.0
- - 2020-12-16 00:00:00 : 65000000.0
- - 2021-03-17 00:00:00 : 60000000.0
- - 2021-05-31 00:00:00 : 60000000.0
- - 2021-12-22 00:00:00 : 55000000.0
- - 2022-06-14 00:00:00 : 48000000.0
- - 2022-11-10 00:00:00 : 35000000.0
- - 2023-03-20 00:00:00 : 20000000.0
- - 2023-06-14 00:00:00 : 15000000.0
- - 2023-10-05 00:00:00 : 0.0
- - 2025-06-30 00:00:00 : 5000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 23/24 | competition_name: Serie A | team_name: Juventus FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 22/23 | competition_name: Italy Cup | team_name: Juventus FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 22/23 | competition_name: Serie A | team_name: Juventus FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
@@ -176,55 +118,26 @@ Transferts:
  - transfer_date: 2007-07-01 00:00:00 | from_team_name: US Torcy Yth. | to_team_name: Le Havre U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Virgil van Dijk (ID 139208)
+JOUEUR : Virgil van Dijk (139208) (ID 139208)
 ========================================================================================================================
 
 Profil :
  - player_id: 139208
- - player_name: Virgil van Dijk
+ - player_name: Virgil van Dijk (139208)
  - player_slug: virgil-van-dijk
- - date_of_birth: 1991-07-08 00:00:00
+ - date_of_birth: 1991-07-08
  - country_of_birth: Netherlands
  - height: 195.0
  - is_eu: True
  - main_position: Defender
- - sub_position: Centre-Back
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Netherlands
- - nationality_2: Suriname
- - has_dual_nationality: True
 
-Club le plus récent : Liverpool FC (25/26)
+Club le plus récent: Liverpool FC (25/26)
 
-Dernière valeur marchande : 23000000.0 (date: 2025-05-29 00:00:00)
+Dernière valeur marchande: 23000000.0 (date: 2025-05-29 00:00:00)
 
-Historique valeur marchande :
- - 2018-01-01 00:00:00 : 50000000.0
- - 2018-05-27 00:00:00 : 50000000.0
- - 2018-10-16 00:00:00 : 60000000.0
- - 2018-12-18 00:00:00 : 75000000.0
- - 2019-06-12 00:00:00 : 90000000.0
- - 2019-09-11 00:00:00 : 100000000.0
- - 2019-12-09 00:00:00 : 100000000.0
- - 2020-04-07 00:00:00 : 80000000.0
- - 2020-10-12 00:00:00 : 80000000.0
- - 2021-03-17 00:00:00 : 70000000.0
- - 2021-06-07 00:00:00 : 55000000.0
- - 2021-12-22 00:00:00 : 55000000.0
- - 2022-06-14 00:00:00 : 55000000.0
- - 2022-11-02 00:00:00 : 50000000.0
- - 2023-03-15 00:00:00 : 45000000.0
- - 2023-06-19 00:00:00 : 35000000.0
- - 2023-12-18 00:00:00 : 32000000.0
- - 2024-05-26 00:00:00 : 30000000.0
- - 2024-12-15 00:00:00 : 28000000.0
- - 2025-05-29 00:00:00 : 23000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: Premier League | team_name: Liverpool FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 25/26 | competition_name: Community Shield | team_name: Liverpool FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Premier League | team_name: Liverpool FC | goals: 3.0 | assists: 1 | minutes_played: 1110.0 | yellow_cards: 5 | direct_red_cards: 0 | clean_sheets: 0
@@ -264,55 +177,26 @@ Transferts:
  - transfer_date: 2001-07-01 00:00:00 | from_team_name: WDS '19 Jeugd | to_team_name: Willem II Youth | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Mohamed Salah (ID 148455)
+JOUEUR : Mohamed Salah (148455) (ID 148455)
 ========================================================================================================================
 
 Profil :
  - player_id: 148455
- - player_name: Mohamed Salah
+ - player_name: Mohamed Salah (148455)
  - player_slug: mohamed-salah
- - date_of_birth: 1992-06-15 00:00:00
+ - date_of_birth: 1992-06-15
  - country_of_birth: Egypt
  - height: 175.0
  - is_eu: False
  - main_position: Attack
- - sub_position: Right Winger
  - foot: left
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Egypt
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : Liverpool FC (25/26)
+Club le plus récent: Liverpool FC (25/26)
 
-Dernière valeur marchande : 50000000.0 (date: 2025-05-29 00:00:00)
+Dernière valeur marchande: 50000000.0 (date: 2025-05-29 00:00:00)
 
-Historique valeur marchande :
- - 2017-06-07 00:00:00 : 35000000.0
- - 2017-10-22 00:00:00 : 40000000.0
- - 2018-01-01 00:00:00 : 80000000.0
- - 2018-05-27 00:00:00 : 150000000.0
- - 2018-12-18 00:00:00 : 150000000.0
- - 2019-06-12 00:00:00 : 150000000.0
- - 2019-12-09 00:00:00 : 150000000.0
- - 2020-04-07 00:00:00 : 120000000.0
- - 2020-10-12 00:00:00 : 120000000.0
- - 2021-03-17 00:00:00 : 110000000.0
- - 2021-06-07 00:00:00 : 100000000.0
- - 2021-12-22 00:00:00 : 100000000.0
- - 2022-06-14 00:00:00 : 90000000.0
- - 2022-11-02 00:00:00 : 80000000.0
- - 2023-03-15 00:00:00 : 70000000.0
- - 2023-06-19 00:00:00 : 65000000.0
- - 2023-12-18 00:00:00 : 65000000.0
- - 2024-05-26 00:00:00 : 55000000.0
- - 2024-12-15 00:00:00 : 55000000.0
- - 2025-05-29 00:00:00 : 50000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: Premier League | team_name: Liverpool FC | goals: 1.0 | assists: 1 | minutes_played: 270.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 25/26 | competition_name: Community Shield | team_name: Liverpool FC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Premier League | team_name: Liverpool FC | goals: 29.0 | assists: 18 | minutes_played: 117.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
@@ -354,55 +238,26 @@ Transferts:
  - transfer_date: 2010-05-01 00:00:00 | from_team_name: Mokawloon U23 | to_team_name: El Mokawloon | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Karim Benzema (ID 18922)
+JOUEUR : Karim Benzema (18922) (ID 18922)
 ========================================================================================================================
 
 Profil :
  - player_id: 18922
- - player_name: Karim Benzema
+ - player_name: Karim Benzema (18922)
  - player_slug: karim-benzema
- - date_of_birth: 1987-12-19 00:00:00
+ - date_of_birth: 1987-12-19
  - country_of_birth: France
  - height: 185.0
  - is_eu: True
  - main_position: Attack
- - sub_position: Centre-Forward
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: France
- - nationality_2: Algeria
- - has_dual_nationality: True
 
-Club le plus récent : Al-Ittihad Club (25/26)
+Club le plus récent: Al-Ittihad Club (25/26)
 
-Dernière valeur marchande : 7000000.0 (date: 2025-05-26 00:00:00)
+Dernière valeur marchande: 7000000.0 (date: 2025-05-26 00:00:00)
 
-Historique valeur marchande :
- - 2017-01-23 00:00:00 : 60000000.0
- - 2017-06-04 00:00:00 : 60000000.0
- - 2017-12-31 00:00:00 : 50000000.0
- - 2018-05-29 00:00:00 : 40000000.0
- - 2018-12-20 00:00:00 : 40000000.0
- - 2019-06-10 00:00:00 : 40000000.0
- - 2019-12-19 00:00:00 : 40000000.0
- - 2020-04-07 00:00:00 : 32000000.0
- - 2020-10-07 00:00:00 : 25000000.0
- - 2021-01-04 00:00:00 : 25000000.0
- - 2021-05-31 00:00:00 : 25000000.0
- - 2021-12-29 00:00:00 : 25000000.0
- - 2022-06-02 00:00:00 : 30000000.0
- - 2022-11-06 00:00:00 : 35000000.0
- - 2023-06-12 00:00:00 : 25000000.0
- - 2023-10-23 00:00:00 : 15000000.0
- - 2023-12-14 00:00:00 : 15000000.0
- - 2024-06-03 00:00:00 : 10000000.0
- - 2024-12-12 00:00:00 : 8000000.0
- - 2025-05-26 00:00:00 : 7000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: Saudi Pro League | team_name: Al-Ittihad Club | goals: 3.0 | assists: 0 | minutes_played: 30.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 25/26 | competition_name: Saudi Super Cup | team_name: Al-Ittihad Club | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: King's Cup | team_name: Al-Ittihad Club | goals: 4.0 | assists: 0 | minutes_played: 80.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
@@ -441,55 +296,26 @@ Transferts:
  - transfer_date: 2002-07-01 00:00:00 | from_team_name: Ol. Lyon Yth. | to_team_name: Olymp. Lyon U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Manuel Neuer (ID 17259)
+JOUEUR : Manuel Neuer (17259) (ID 17259)
 ========================================================================================================================
 
 Profil :
  - player_id: 17259
- - player_name: Manuel Neuer
+ - player_name: Manuel Neuer (17259)
  - player_slug: manuel-neuer
- - date_of_birth: 1986-03-27 00:00:00
+ - date_of_birth: 1986-03-27
  - country_of_birth: Germany
  - height: 193.0
  - is_eu: True
  - main_position: Goalkeeper
- - sub_position: Goalkeeper
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Germany
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : Bayern Munich (25/26)
+Club le plus récent: Bayern Munich (25/26)
 
-Dernière valeur marchande : 4000000.0 (date: 2025-06-04 00:00:00)
+Dernière valeur marchande: 4000000.0 (date: 2025-06-04 00:00:00)
 
-Historique valeur marchande :
- - 2017-12-27 00:00:00 : 35000000.0
- - 2018-06-04 00:00:00 : 35000000.0
- - 2018-10-21 00:00:00 : 30000000.0
- - 2018-12-17 00:00:00 : 22000000.0
- - 2019-06-04 00:00:00 : 18000000.0
- - 2019-12-16 00:00:00 : 18000000.0
- - 2020-04-07 00:00:00 : 14500000.0
- - 2020-09-15 00:00:00 : 18000000.0
- - 2021-02-09 00:00:00 : 18000000.0
- - 2021-05-31 00:00:00 : 18000000.0
- - 2021-12-21 00:00:00 : 14000000.0
- - 2022-06-08 00:00:00 : 15000000.0
- - 2022-11-08 00:00:00 : 12000000.0
- - 2023-03-28 00:00:00 : 7000000.0
- - 2023-06-21 00:00:00 : 7000000.0
- - 2023-10-17 00:00:00 : 5000000.0
- - 2023-12-13 00:00:00 : 5000000.0
- - 2024-05-28 00:00:00 : 4000000.0
- - 2024-12-19 00:00:00 : 4000000.0
- - 2025-06-04 00:00:00 : 4000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: Bundesliga | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 180.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 1
  - season_name: 25/26 | competition_name: DFL-Supercup | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Bundesliga | team_name: Bayern Munich | goals: nan | assists: 0 | minutes_played: 1980.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 13
@@ -527,55 +353,26 @@ Transferts:
  - transfer_date: 2001-07-01 00:00:00 | from_team_name: Schalke 04 Yth. | to_team_name: Schalke 04 U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Diogo Jota (ID 340950)
+JOUEUR : Diogo Jota (340950) (ID 340950)
 ========================================================================================================================
 
 Profil :
  - player_id: 340950
- - player_name: Diogo Jota
+ - player_name: Diogo Jota (340950)
  - player_slug: diogo-jota
- - date_of_birth: 1996-12-04 00:00:00
+ - date_of_birth: 1996-12-04
  - country_of_birth: Portugal
  - height: 178.0
  - is_eu: True
  - main_position: Attack
- - sub_position: Left Winger
  - foot: right
- - date_of_death: 2025-07-03 00:00:00
- - suspected_duplicate: False
- - is_dead: True
- - current_status: deceased
- - nationality_1: Portugal
- - nationality_2: NaN
- - has_dual_nationality: False
+ - date_of_death: 03.07.2025 (28)
 
-Club le plus récent : Liverpool FC (24/25)
+Club le plus récent: Liverpool FC (24/25)
 
-Dernière valeur marchande : 40000000.0 (date: 2025-05-29 00:00:00)
+Dernière valeur marchande: 40000000.0 (date: 2025-05-29 00:00:00)
 
-Historique valeur marchande :
- - 2017-02-21 00:00:00 : 8000000.0
- - 2017-06-25 00:00:00 : 8000000.0
- - 2018-02-26 00:00:00 : 12000000.0
- - 2018-08-12 00:00:00 : 18000000.0
- - 2018-12-18 00:00:00 : 18000000.0
- - 2019-06-12 00:00:00 : 35000000.0
- - 2019-12-09 00:00:00 : 35000000.0
- - 2020-04-07 00:00:00 : 28000000.0
- - 2020-10-12 00:00:00 : 40000000.0
- - 2021-03-17 00:00:00 : 40000000.0
- - 2021-05-31 00:00:00 : 45000000.0
- - 2021-12-22 00:00:00 : 60000000.0
- - 2022-06-14 00:00:00 : 60000000.0
- - 2022-11-02 00:00:00 : 55000000.0
- - 2023-06-19 00:00:00 : 50000000.0
- - 2023-12-18 00:00:00 : 50000000.0
- - 2024-05-26 00:00:00 : 50000000.0
- - 2024-12-15 00:00:00 : 50000000.0
- - 2025-03-17 00:00:00 : 45000000.0
- - 2025-05-29 00:00:00 : 40000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 24/25 | competition_name: Premier League | team_name: Liverpool FC | goals: 6.0 | assists: 4 | minutes_played: 199.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: FA Cup | team_name: Liverpool FC | goals: 1.0 | assists: 0 | minutes_played: 180.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: EFL Cup | team_name: Liverpool FC | goals: 2.0 | assists: 0 | minutes_played: 111.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
@@ -619,55 +416,26 @@ Transferts:
  - transfer_date: 2012-07-01 00:00:00 | from_team_name: Gondomar Sub-17 | to_team_name: Gondomar U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Kylian Mbappé (ID 342229)
+JOUEUR : Kylian Mbappé (342229) (ID 342229)
 ========================================================================================================================
 
 Profil :
  - player_id: 342229
- - player_name: Kylian Mbappé
+ - player_name: Kylian Mbappé (342229)
  - player_slug: kylian-mbappe
- - date_of_birth: 1998-12-20 00:00:00
+ - date_of_birth: 1998-12-20
  - country_of_birth: France
  - height: 178.0
  - is_eu: True
  - main_position: Attack
- - sub_position: Centre-Forward
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: France
- - nationality_2: Cameroon
- - has_dual_nationality: True
 
-Club le plus récent : Real Madrid (25/26)
+Club le plus récent: Real Madrid (25/26)
 
-Dernière valeur marchande : 180000000.0 (date: 2025-06-08 00:00:00)
+Dernière valeur marchande: 180000000.0 (date: 2025-06-08 00:00:00)
 
-Historique valeur marchande :
- - 2018-06-03 00:00:00 : 120000000.0
- - 2018-07-15 00:00:00 : 150000000.0
- - 2018-10-23 00:00:00 : 180000000.0
- - 2018-12-16 00:00:00 : 200000000.0
- - 2019-06-02 00:00:00 : 200000000.0
- - 2019-12-18 00:00:00 : 200000000.0
- - 2020-04-07 00:00:00 : 180000000.0
- - 2020-10-14 00:00:00 : 180000000.0
- - 2021-04-08 00:00:00 : 160000000.0
- - 2021-05-31 00:00:00 : 160000000.0
- - 2021-12-15 00:00:00 : 160000000.0
- - 2022-05-29 00:00:00 : 160000000.0
- - 2022-11-01 00:00:00 : 160000000.0
- - 2022-12-22 00:00:00 : 180000000.0
- - 2023-06-26 00:00:00 : 180000000.0
- - 2023-12-17 00:00:00 : 180000000.0
- - 2024-06-02 00:00:00 : 180000000.0
- - 2024-12-26 00:00:00 : 160000000.0
- - 2025-03-20 00:00:00 : 170000000.0
- - 2025-06-08 00:00:00 : 180000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: LaLiga | team_name: Real Madrid | goals: 3.0 | assists: 0 | minutes_played: 89.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: LaLiga | team_name: Real Madrid | goals: 31.0 | assists: 3 | minutes_played: 94.0 | yellow_cards: 3 | direct_red_cards: 1 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Copa del Rey | team_name: Real Madrid | goals: 2.0 | assists: 0 | minutes_played: 118.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
@@ -707,55 +475,26 @@ Transferts:
  - transfer_date: 2011-07-01 00:00:00 | from_team_name: AS Bondy Yth. | to_team_name: Clairef. Yth. | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Luka Modrić (ID 27992)
+JOUEUR : Luka Modrić (27992) (ID 27992)
 ========================================================================================================================
 
 Profil :
  - player_id: 27992
- - player_name: Luka Modrić
+ - player_name: Luka Modrić (27992)
  - player_slug: luka-modric
- - date_of_birth: 1985-09-09 00:00:00
+ - date_of_birth: 1985-09-09
  - country_of_birth: Croatia
  - height: 172.0
  - is_eu: True
  - main_position: Midfield
- - sub_position: Central Midfield
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Croatia
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : AC Milan (25/26)
+Club le plus récent: AC Milan (25/26)
 
-Dernière valeur marchande : 4000000.0 (date: 2025-06-08 00:00:00)
+Dernière valeur marchande: 4000000.0 (date: 2025-06-08 00:00:00)
 
-Historique valeur marchande :
- - 2017-01-23 00:00:00 : 45000000.0
- - 2017-06-04 00:00:00 : 40000000.0
- - 2017-12-31 00:00:00 : 40000000.0
- - 2018-05-29 00:00:00 : 25000000.0
- - 2018-12-20 00:00:00 : 25000000.0
- - 2019-06-10 00:00:00 : 20000000.0
- - 2019-12-19 00:00:00 : 15000000.0
- - 2020-04-07 00:00:00 : 12000000.0
- - 2020-10-07 00:00:00 : 10000000.0
- - 2021-01-04 00:00:00 : 10000000.0
- - 2021-05-27 00:00:00 : 10000000.0
- - 2021-12-29 00:00:00 : 10000000.0
- - 2022-06-02 00:00:00 : 10000000.0
- - 2022-11-06 00:00:00 : 10000000.0
- - 2023-06-12 00:00:00 : 10000000.0
- - 2023-12-21 00:00:00 : 10000000.0
- - 2024-03-20 00:00:00 : 8000000.0
- - 2024-06-06 00:00:00 : 6000000.0
- - 2024-12-26 00:00:00 : 5000000.0
- - 2025-06-08 00:00:00 : 4000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: Serie A | team_name: AC Milan | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 25/26 | competition_name: Italy Cup | team_name: AC Milan | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Copa del Rey | team_name: Real Madrid | goals: 2.0 | assists: 0 | minutes_played: 169.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
@@ -799,55 +538,26 @@ Transferts:
  - transfer_date: 2000-07-01 00:00:00 | from_team_name: NK Zadar Jgd | to_team_name: NK Zadar U17 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Lionel Messi (ID 28003)
+JOUEUR : Lionel Messi (28003) (ID 28003)
 ========================================================================================================================
 
 Profil :
  - player_id: 28003
- - player_name: Lionel Messi
+ - player_name: Lionel Messi (28003)
  - player_slug: lionel-messi
- - date_of_birth: 1987-06-24 00:00:00
+ - date_of_birth: 1987-06-24
  - country_of_birth: Argentina
  - height: 170.0
  - is_eu: True
  - main_position: Attack
- - sub_position: Right Winger
  - foot: left
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Argentina
- - nationality_2: Spain
- - has_dual_nationality: True
 
-Club le plus récent : Inter Miami CF (24/25)
+Club le plus récent: Inter Miami CF (24/25)
 
-Dernière valeur marchande : 18000000.0 (date: 2025-06-04 00:00:00)
+Dernière valeur marchande: 18000000.0 (date: 2025-06-04 00:00:00)
 
-Historique valeur marchande :
- - 2018-05-29 00:00:00 : 180000000.0
- - 2018-12-20 00:00:00 : 160000000.0
- - 2019-06-10 00:00:00 : 150000000.0
- - 2019-12-19 00:00:00 : 140000000.0
- - 2020-04-07 00:00:00 : 112000000.0
- - 2020-10-07 00:00:00 : 100000000.0
- - 2021-01-04 00:00:00 : 80000000.0
- - 2021-06-09 00:00:00 : 80000000.0
- - 2021-12-15 00:00:00 : 60000000.0
- - 2022-05-29 00:00:00 : 50000000.0
- - 2022-11-01 00:00:00 : 50000000.0
- - 2023-03-26 00:00:00 : 45000000.0
- - 2023-06-26 00:00:00 : 35000000.0
- - 2023-08-21 00:00:00 : 35000000.0
- - 2023-12-17 00:00:00 : 35000000.0
- - 2024-03-24 00:00:00 : 30000000.0
- - 2024-06-12 00:00:00 : 30000000.0
- - 2024-09-25 00:00:00 : 25000000.0
- - 2024-12-11 00:00:00 : 20000000.0
- - 2025-06-04 00:00:00 : 18000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 24/25 | competition_name: CONCACAF CC | team_name: Inter Miami CF | goals: 5.0 | assists: 1 | minutes_played: 111.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 23/24 | competition_name: CONCACAF Champions Cup | team_name: Inter Miami CF | goals: 2.0 | assists: 2 | minutes_played: 115.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 22/23 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 16.0 | assists: 16 | minutes_played: 178.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
@@ -887,55 +597,26 @@ Transferts:
  - transfer_date: 2000-07-01 00:00:00 | from_team_name: Newell's JV | to_team_name: Barça Youth | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Ousmane Dembélé (ID 288230)
+JOUEUR : Ousmane Dembélé (288230) (ID 288230)
 ========================================================================================================================
 
 Profil :
  - player_id: 288230
- - player_name: Ousmane Dembélé
+ - player_name: Ousmane Dembélé (288230)
  - player_slug: ousmane-dembele
- - date_of_birth: 1997-05-15 00:00:00
+ - date_of_birth: 1997-05-15
  - country_of_birth: France
  - height: 178.0
  - is_eu: True
  - main_position: Attack
- - sub_position: Right Winger
  - foot: both
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: France
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : Paris Saint-Germain (25/26)
+Club le plus récent: Paris Saint-Germain (25/26)
 
-Dernière valeur marchande : 90000000.0 (date: 2025-06-02 00:00:00)
+Dernière valeur marchande: 90000000.0 (date: 2025-06-02 00:00:00)
 
-Historique valeur marchande :
- - 2018-05-29 00:00:00 : 80000000.0
- - 2018-12-20 00:00:00 : 80000000.0
- - 2019-02-27 00:00:00 : 120000000.0
- - 2019-06-10 00:00:00 : 100000000.0
- - 2019-12-19 00:00:00 : 75000000.0
- - 2020-03-04 00:00:00 : 70000000.0
- - 2020-04-07 00:00:00 : 56000000.0
- - 2020-10-07 00:00:00 : 50000000.0
- - 2021-01-04 00:00:00 : 50000000.0
- - 2021-05-31 00:00:00 : 50000000.0
- - 2021-12-29 00:00:00 : 30000000.0
- - 2022-06-02 00:00:00 : 30000000.0
- - 2022-09-22 00:00:00 : 50000000.0
- - 2022-11-06 00:00:00 : 60000000.0
- - 2023-06-12 00:00:00 : 60000000.0
- - 2023-12-17 00:00:00 : 60000000.0
- - 2024-06-02 00:00:00 : 60000000.0
- - 2024-12-09 00:00:00 : 55000000.0
- - 2025-03-23 00:00:00 : 75000000.0
- - 2025-06-02 00:00:00 : 90000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: Ligue 1 | team_name: Paris Saint-Germain | goals: 2.0 | assists: 1 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 25/26 | competition_name: UEFA Super Cup | team_name: Paris Saint-Germain | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Champions League | team_name: Paris Saint-Germain | goals: 8.0 | assists: 6 | minutes_played: 146.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
@@ -975,55 +656,26 @@ Transferts:
  - transfer_date: 2010-07-01 00:00:00 | from_team_name: Évreux Jugend | to_team_name: Rennes Jugend | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Toni Kroos (ID 31909)
+JOUEUR : Toni Kroos (31909) (ID 31909)
 ========================================================================================================================
 
 Profil :
  - player_id: 31909
- - player_name: Toni Kroos
+ - player_name: Toni Kroos (31909)
  - player_slug: toni-kroos
- - date_of_birth: 1990-01-04 00:00:00
+ - date_of_birth: 1990-01-04
  - country_of_birth: Germany
  - height: 183.0
  - is_eu: True
  - main_position: Midfield
- - sub_position: Central Midfield
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: retired
- - nationality_1: Germany
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : Real Madrid (23/24)
+Club le plus récent: Real Madrid (23/24)
 
-Dernière valeur marchande : 0.0 (date: 2024-07-06 00:00:00)
+Dernière valeur marchande: 0.0 (date: 2024-07-06 00:00:00)
 
-Historique valeur marchande :
- - 2017-06-04 00:00:00 : 70000000.0
- - 2017-12-31 00:00:00 : 80000000.0
- - 2018-05-29 00:00:00 : 80000000.0
- - 2018-12-20 00:00:00 : 80000000.0
- - 2019-06-10 00:00:00 : 60000000.0
- - 2019-12-19 00:00:00 : 60000000.0
- - 2020-04-07 00:00:00 : 48000000.0
- - 2020-10-07 00:00:00 : 50000000.0
- - 2021-01-04 00:00:00 : 50000000.0
- - 2021-05-31 00:00:00 : 40000000.0
- - 2021-10-12 00:00:00 : 30000000.0
- - 2021-12-29 00:00:00 : 25000000.0
- - 2022-06-02 00:00:00 : 20000000.0
- - 2022-11-06 00:00:00 : 20000000.0
- - 2023-03-22 00:00:00 : 18000000.0
- - 2023-06-12 00:00:00 : 15000000.0
- - 2023-12-21 00:00:00 : 14000000.0
- - 2024-03-20 00:00:00 : 12000000.0
- - 2024-06-06 00:00:00 : 10000000.0
- - 2024-07-06 00:00:00 : 0.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 23/24 | competition_name: Champions League | team_name: Real Madrid | goals: 0.0 | assists: 2 | minutes_played: nan | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 23/24 | competition_name: Supercopa | team_name: Real Madrid | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 23/24 | competition_name: LaLiga | team_name: Real Madrid | goals: 1.0 | assists: 8 | minutes_played: 2130.0 | yellow_cards: 3 | direct_red_cards: 0 | clean_sheets: 0
@@ -1064,55 +716,26 @@ Transferts:
  - transfer_date: 2002-07-01 00:00:00 | from_team_name: Greifs. SC Yth. | to_team_name: H. Rostock Yth. | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Robert Lewandowski (ID 38253)
+JOUEUR : Robert Lewandowski (38253) (ID 38253)
 ========================================================================================================================
 
 Profil :
  - player_id: 38253
- - player_name: Robert Lewandowski
+ - player_name: Robert Lewandowski (38253)
  - player_slug: robert-lewandowski
- - date_of_birth: 1988-08-21 00:00:00
+ - date_of_birth: 1988-08-21
  - country_of_birth: Poland
  - height: 185.0
  - is_eu: True
  - main_position: Attack
- - sub_position: Centre-Forward
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Poland
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : FC Barcelona (25/26)
+Club le plus récent: FC Barcelona (25/26)
 
-Dernière valeur marchande : 12000000.0 (date: 2025-06-08 00:00:00)
+Dernière valeur marchande: 12000000.0 (date: 2025-06-08 00:00:00)
 
-Historique valeur marchande :
- - 2018-06-04 00:00:00 : 90000000.0
- - 2018-07-15 00:00:00 : 85000000.0
- - 2018-10-21 00:00:00 : 80000000.0
- - 2018-12-17 00:00:00 : 70000000.0
- - 2019-06-04 00:00:00 : 65000000.0
- - 2019-12-16 00:00:00 : 70000000.0
- - 2020-04-07 00:00:00 : 56000000.0
- - 2020-09-15 00:00:00 : 60000000.0
- - 2021-02-09 00:00:00 : 60000000.0
- - 2021-05-30 00:00:00 : 60000000.0
- - 2021-12-21 00:00:00 : 50000000.0
- - 2022-06-08 00:00:00 : 45000000.0
- - 2022-11-06 00:00:00 : 45000000.0
- - 2023-03-22 00:00:00 : 40000000.0
- - 2023-06-12 00:00:00 : 30000000.0
- - 2023-12-21 00:00:00 : 20000000.0
- - 2024-03-20 00:00:00 : 15000000.0
- - 2024-06-06 00:00:00 : 15000000.0
- - 2024-12-26 00:00:00 : 15000000.0
- - 2025-06-08 00:00:00 : 12000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: LaLiga | team_name: FC Barcelona | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Champions League | team_name: FC Barcelona | goals: 11.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Copa del Rey | team_name: FC Barcelona | goals: 3.0 | assists: 0 | minutes_played: 33.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
@@ -1150,55 +773,26 @@ Transferts:
  - transfer_date: 2005-01-01 00:00:00 | from_team_name: Varsovia Yth. | to_team_name: Delta Warszawa | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Pelé (ID 48930)
+JOUEUR : Pelé (48930) (ID 48930)
 ========================================================================================================================
 
 Profil :
  - player_id: 48930
- - player_name: Pelé
+ - player_name: Pelé (48930)
  - player_slug: pele
- - date_of_birth: 1987-09-14 00:00:00
+ - date_of_birth: 1987-09-14
  - country_of_birth: Portugal
  - height: 187.0
  - is_eu: True
  - main_position: Midfield
- - sub_position: Central Midfield
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: retired
- - nationality_1: Portugal
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : AFC Eskilstuna (2018)
+Club le plus récent: AFC Eskilstuna (2018)
 
-Dernière valeur marchande : 0.0 (date: 2018-12-31 00:00:00)
+Dernière valeur marchande: 0.0 (date: 2018-12-31 00:00:00)
 
-Historique valeur marchande :
- - 2009-02-22 00:00:00 : 4500000.0
- - 2009-06-24 00:00:00 : 4000000.0
- - 2009-07-22 00:00:00 : 3200000.0
- - 2009-11-30 00:00:00 : 2800000.0
- - 2010-04-05 00:00:00 : 2800000.0
- - 2010-08-19 00:00:00 : 2500000.0
- - 2011-01-20 00:00:00 : 1500000.0
- - 2011-06-30 00:00:00 : 1800000.0
- - 2012-01-08 00:00:00 : 1200000.0
- - 2012-06-18 00:00:00 : 1200000.0
- - 2013-01-05 00:00:00 : 700000.0
- - 2013-12-01 00:00:00 : 600000.0
- - 2014-03-27 00:00:00 : 1000000.0
- - 2014-11-10 00:00:00 : 800000.0
- - 2015-05-09 00:00:00 : 700000.0
- - 2016-05-04 00:00:00 : 750000.0
- - 2016-12-29 00:00:00 : 500000.0
- - 2017-05-03 00:00:00 : 450000.0
- - 2018-11-21 00:00:00 : 100000.0
- - 2018-12-31 00:00:00 : 0.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 2018 | competition_name: Superettan | team_name: AFC Eskilstuna | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 18/19 | competition_name: Svenska Cupen | team_name: AFC Eskilstuna | goals: 1.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 16/17 | competition_name: Protathlima Cyta | team_name: Anorthosis Famagusta | goals: 2.0 | assists: 0 | minutes_played: 409.0 | yellow_cards: 4 | direct_red_cards: 0 | clean_sheets: 0
@@ -1232,55 +826,26 @@ Transferts:
  - transfer_date: 2012-08-26 00:00:00 | from_team_name: Eskisehirspor | to_team_name: Without Club | transfer_type: Transfer | value_at_transfer: 1200000 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Neymar (ID 68290)
+JOUEUR : Neymar (68290) (ID 68290)
 ========================================================================================================================
 
 Profil :
  - player_id: 68290
- - player_name: Neymar
+ - player_name: Neymar (68290)
  - player_slug: neymar
- - date_of_birth: 1992-02-05 00:00:00
+ - date_of_birth: 1992-02-05
  - country_of_birth: Brazil
  - height: 175.0
  - is_eu: False
  - main_position: Midfield
- - sub_position: Attacking Midfield
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Brazil
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : Al-Hilal SFC (24/25)
+Club le plus récent: Al-Hilal SFC (24/25)
 
-Dernière valeur marchande : 11000000.0 (date: 2025-09-04 00:00:00)
+Dernière valeur marchande: 11000000.0 (date: 2025-09-04 00:00:00)
 
-Historique valeur marchande :
- - 2018-01-23 00:00:00 : 180000000.0
- - 2018-06-03 00:00:00 : 180000000.0
- - 2018-12-16 00:00:00 : 180000000.0
- - 2019-06-02 00:00:00 : 180000000.0
- - 2019-12-18 00:00:00 : 160000000.0
- - 2020-04-07 00:00:00 : 128000000.0
- - 2020-10-14 00:00:00 : 128000000.0
- - 2021-04-08 00:00:00 : 110000000.0
- - 2021-06-03 00:00:00 : 100000000.0
- - 2021-12-15 00:00:00 : 90000000.0
- - 2022-05-29 00:00:00 : 75000000.0
- - 2022-11-01 00:00:00 : 75000000.0
- - 2023-03-26 00:00:00 : 70000000.0
- - 2023-06-26 00:00:00 : 60000000.0
- - 2023-10-23 00:00:00 : 50000000.0
- - 2023-12-14 00:00:00 : 45000000.0
- - 2024-06-03 00:00:00 : 30000000.0
- - 2024-12-12 00:00:00 : 15000000.0
- - 2025-06-05 00:00:00 : 12000000.0
- - 2025-09-04 00:00:00 : 11000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 24/25 | competition_name: AFC Champions League | team_name: Al-Hilal SFC | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 23/24 | competition_name: AFC Champions League | team_name: Al-Hilal SFC | goals: 1.0 | assists: 0 | minutes_played: 180.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 23/24 | competition_name: Saudi Pro League | team_name: Al-Hilal SFC | goals: 0.0 | assists: 3 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
@@ -1318,47 +883,26 @@ Transferts:
  - transfer_date: 2009-01-01 00:00:00 | from_team_name: Santos U20 | to_team_name: Santos | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Gavi (ID 646740)
+JOUEUR : Gavi (646740) (ID 646740)
 ========================================================================================================================
 
 Profil :
  - player_id: 646740
- - player_name: Gavi
+ - player_name: Gavi (646740)
  - player_slug: gavi
- - date_of_birth: 2004-08-05 00:00:00
+ - date_of_birth: 2004-08-05
  - country_of_birth: Spain
  - height: 173.0
  - is_eu: True
  - main_position: Midfield
- - sub_position: Central Midfield
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Spain
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : FC Barcelona (25/26)
+Club le plus récent: FC Barcelona (25/26)
 
-Dernière valeur marchande : 60000000.0 (date: 2025-06-08 00:00:00)
+Dernière valeur marchande: 60000000.0 (date: 2025-06-08 00:00:00)
 
-Historique valeur marchande :
- - 2021-10-12 00:00:00 : 25000000.0
- - 2021-12-29 00:00:00 : 40000000.0
- - 2022-03-20 00:00:00 : 60000000.0
- - 2022-06-02 00:00:00 : 60000000.0
- - 2022-09-22 00:00:00 : 70000000.0
- - 2022-11-06 00:00:00 : 90000000.0
- - 2023-06-12 00:00:00 : 90000000.0
- - 2023-12-21 00:00:00 : 90000000.0
- - 2024-06-06 00:00:00 : 90000000.0
- - 2024-12-26 00:00:00 : 80000000.0
- - 2025-03-20 00:00:00 : 70000000.0
- - 2025-06-08 00:00:00 : 60000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: LaLiga | team_name: FC Barcelona | goals: 0.0 | assists: 1 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Champions League | team_name: FC Barcelona | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Copa del Rey | team_name: FC Barcelona | goals: 1.0 | assists: 0 | minutes_played: 174.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
@@ -1392,55 +936,26 @@ Transferts:
  - transfer_date: 2015-07-01 00:00:00 | from_team_name: Real Betis Yth. | to_team_name: Barça Youth | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 10000
 
 ========================================================================================================================
-JOUEUR : Cristiano Ronaldo (ID 8198)
+JOUEUR : Cristiano Ronaldo (8198) (ID 8198)
 ========================================================================================================================
 
 Profil :
  - player_id: 8198
- - player_name: Cristiano Ronaldo
+ - player_name: Cristiano Ronaldo (8198)
  - player_slug: cristiano-ronaldo
- - date_of_birth: 1985-02-05 00:00:00
+ - date_of_birth: 1985-02-05
  - country_of_birth: Portugal
  - height: 188.0
  - is_eu: True
  - main_position: Attack
- - sub_position: Centre-Forward
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Portugal
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : Al-Nassr FC (25/26)
+Club le plus récent: Al-Nassr FC (25/26)
 
-Dernière valeur marchande : 12000000.0 (date: 2025-05-26 00:00:00)
+Dernière valeur marchande: 12000000.0 (date: 2025-05-26 00:00:00)
 
-Historique valeur marchande :
- - 2017-06-04 00:00:00 : 100000000.0
- - 2017-12-31 00:00:00 : 120000000.0
- - 2018-05-29 00:00:00 : 100000000.0
- - 2018-12-19 00:00:00 : 100000000.0
- - 2019-06-05 00:00:00 : 90000000.0
- - 2019-12-11 00:00:00 : 75000000.0
- - 2020-04-07 00:00:00 : 60000000.0
- - 2020-08-24 00:00:00 : 60000000.0
- - 2020-12-28 00:00:00 : 60000000.0
- - 2021-03-22 00:00:00 : 50000000.0
- - 2021-05-31 00:00:00 : 45000000.0
- - 2021-12-22 00:00:00 : 35000000.0
- - 2022-06-14 00:00:00 : 30000000.0
- - 2022-09-14 00:00:00 : 20000000.0
- - 2022-11-02 00:00:00 : 20000000.0
- - 2023-06-11 00:00:00 : 15000000.0
- - 2023-12-14 00:00:00 : 15000000.0
- - 2024-06-03 00:00:00 : 15000000.0
- - 2024-12-12 00:00:00 : 12000000.0
- - 2025-05-26 00:00:00 : 12000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: Saudi Pro League | team_name: Al-Nassr FC | goals: 1.0 | assists: 0 | minutes_played: 90.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 25/26 | competition_name: Saudi Super Cup | team_name: Al-Nassr FC | goals: 1.0 | assists: 1 | minutes_played: 180.0 | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Saudi Pro League | team_name: Al-Nassr FC | goals: 25.0 | assists: 3 | minutes_played: 105.0 | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
@@ -1485,55 +1000,26 @@ Transferts:
  - transfer_date: 1997-07-01 00:00:00 | from_team_name: Nacional U15 | to_team_name: Sporting Sub-15 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 2000
 
 ========================================================================================================================
-JOUEUR : Kevin De Bruyne (ID 88755)
+JOUEUR : Kevin De Bruyne (88755) (ID 88755)
 ========================================================================================================================
 
 Profil :
  - player_id: 88755
- - player_name: Kevin De Bruyne
+ - player_name: Kevin De Bruyne (88755)
  - player_slug: kevin-de-bruyne
- - date_of_birth: 1991-06-28 00:00:00
+ - date_of_birth: 1991-06-28
  - country_of_birth: Belgium
  - height: 181.0
  - is_eu: True
  - main_position: Midfield
- - sub_position: Attacking Midfield
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: active
- - nationality_1: Belgium
- - nationality_2: NaN
- - has_dual_nationality: False
 
-Club le plus récent : SSC Napoli (25/26)
+Club le plus récent: SSC Napoli (25/26)
 
-Dernière valeur marchande : 20000000.0 (date: 2025-05-29 00:00:00)
+Dernière valeur marchande: 20000000.0 (date: 2025-05-29 00:00:00)
 
-Historique valeur marchande :
- - 2017-10-22 00:00:00 : 75000000.0
- - 2018-01-01 00:00:00 : 110000000.0
- - 2018-05-27 00:00:00 : 150000000.0
- - 2018-12-18 00:00:00 : 150000000.0
- - 2019-06-12 00:00:00 : 130000000.0
- - 2019-12-09 00:00:00 : 150000000.0
- - 2020-04-07 00:00:00 : 120000000.0
- - 2020-10-12 00:00:00 : 120000000.0
- - 2021-03-17 00:00:00 : 100000000.0
- - 2021-05-25 00:00:00 : 100000000.0
- - 2021-12-22 00:00:00 : 90000000.0
- - 2022-06-14 00:00:00 : 85000000.0
- - 2022-11-02 00:00:00 : 80000000.0
- - 2023-06-19 00:00:00 : 70000000.0
- - 2023-12-18 00:00:00 : 60000000.0
- - 2024-05-26 00:00:00 : 50000000.0
- - 2024-09-30 00:00:00 : 45000000.0
- - 2024-12-15 00:00:00 : 35000000.0
- - 2025-03-17 00:00:00 : 27000000.0
- - 2025-05-29 00:00:00 : 20000000.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 25/26 | competition_name: Serie A | team_name: SSC Napoli | goals: 1.0 | assists: 0 | minutes_played: 171.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: FA Cup | team_name: Manchester City | goals: 2.0 | assists: 1 | minutes_played: 144.0 | yellow_cards: 1 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 24/25 | competition_name: Champions League | team_name: Manchester City | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
@@ -1576,55 +1062,26 @@ Transferts:
  - transfer_date: 2007-07-01 00:00:00 | from_team_name: KRC Genk U17 | to_team_name: KRC Genk U19 | transfer_type: Transfer | value_at_transfer: 0 | transfer_fee: 0
 
 ========================================================================================================================
-JOUEUR : Pelé (ID 99189)
+JOUEUR : Pelé (99189) (ID 99189)
 ========================================================================================================================
 
 Profil :
  - player_id: 99189
- - player_name: Pelé
+ - player_name: Pelé (99189)
  - player_slug: pele
- - date_of_birth: 1991-09-29 00:00:00
+ - date_of_birth: 1991-09-29
  - country_of_birth: Guinea-Bissau
  - height: 182.0
  - is_eu: True
  - main_position: Midfield
- - sub_position: Defensive Midfield
  - foot: right
  - date_of_death: NaN
- - suspected_duplicate: False
- - is_dead: False
- - current_status: retired
- - nationality_1: Guinea-Bissau
- - nationality_2: Portugal
- - has_dual_nationality: True
 
-Club le plus récent : FC Famalicão (22/23)
+Club le plus récent: FC Famalicão (22/23)
 
-Dernière valeur marchande : 0.0 (date: 2023-06-30 00:00:00)
+Dernière valeur marchande: 0.0 (date: 2023-06-30 00:00:00)
 
-Historique valeur marchande :
- - 2017-11-05 00:00:00 : 2000000.0
- - 2018-02-06 00:00:00 : 2000000.0
- - 2018-06-12 00:00:00 : 4000000.0
- - 2018-09-05 00:00:00 : 8000000.0
- - 2018-10-23 00:00:00 : 6000000.0
- - 2018-12-16 00:00:00 : 6000000.0
- - 2019-06-27 00:00:00 : 4500000.0
- - 2019-10-16 00:00:00 : 3500000.0
- - 2020-02-26 00:00:00 : 3500000.0
- - 2020-04-07 00:00:00 : 2800000.0
- - 2020-10-21 00:00:00 : 2800000.0
- - 2021-01-27 00:00:00 : 2800000.0
- - 2021-05-20 00:00:00 : 2000000.0
- - 2021-10-07 00:00:00 : 1500000.0
- - 2021-12-15 00:00:00 : 1500000.0
- - 2022-05-29 00:00:00 : 1000000.0
- - 2022-10-31 00:00:00 : 1000000.0
- - 2023-03-01 00:00:00 : 800000.0
- - 2023-06-15 00:00:00 : 600000.0
- - 2023-06-30 00:00:00 : 0.0
-
-Performances club (10 dernières):
+Performances club (10 dernières saisons):
  - season_name: 22/23 | competition_name: Liga Portugal | team_name: FC Famalicão | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 2 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 22/23 | competition_name: Allianz Cup | team_name: FC Famalicão | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
  - season_name: 22/23 | competition_name: Taça de Portugal | team_name: FC Famalicão | goals: 0.0 | assists: 0 | minutes_played: nan | yellow_cards: 0 | direct_red_cards: 0 | clean_sheets: 0
@@ -1661,26 +1118,3 @@ Transferts:
  - transfer_date: 2019-01-31 00:00:00 | from_team_name: Monaco | to_team_name: Forest | transfer_type: Loan | value_at_transfer: 6000000 | transfer_fee: 0
  - transfer_date: 2018-07-06 00:00:00 | from_team_name: Rio Ave | to_team_name: Monaco | transfer_type: Transfer | value_at_transfer: 4000000 | transfer_fee: 7200000
 
-
-========================================================================================================================
-LISTE DES ID ET NOMS TROUVÉS
-========================================================================================================================
-108390 : Thibaut Courtois
-122153 : Paul Pogba
-139208 : Virgil van Dijk
-148455 : Mohamed Salah
-18922 : Karim Benzema
-17259 : Manuel Neuer
-340950 : Diogo Jota
-342229 : Kylian Mbappé
-27992 : Luka Modrić
-28003 : Lionel Messi
-288230 : Ousmane Dembélé
-31909 : Toni Kroos
-38253 : Robert Lewandowski
-48930 : Pelé
-68290 : Neymar
-646740 : Gavi
-8198 : Cristiano Ronaldo
-88755 : Kevin De Bruyne
-99189 : Pelé
