@@ -226,8 +226,8 @@ def nettoyer_player_market_value(player_market_value):
 def nettoyer_player_performances(player_performances):
     df = player_performances.copy()
 
-    pas_entre = df["minutes_played"].isna() & df["nb_on_pitch"].eq(0)
-    df.loc[pas_entre, "minutes_played"] = 0
+    # minutes_played : mal scrappée, variable supprimée
+    df = df.drop(columns=["minutes_played"])
 
     df["goals_conceded"] = df["goals_conceded"].astype(float)
     df.loc[df["goals_conceded"] < 0, "goals_conceded"] = np.nan
