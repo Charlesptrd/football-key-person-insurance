@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Plan de la base de données</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--fg:#1c2330;--muted:#667085;--border:#dfe3ea;--ok:#16a34a;--warn:#d97706;--bad:#dc2626;
+--joueur:#2563eb;--club:#7c3aed;--derivee:#0d9488;--chip:#eef1f6}
+@media (prefers-color-scheme:dark){:root{--bg:#10141b;--card:#181e28;--fg:#e6e9ef;--muted:#98a2b3;--border:#2a3240;--chip:#232b38}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.45 -apple-system,"Segoe UI",Roboto,sans-serif}
+header{padding:20px 28px 8px}
+h1{margin:0;font-size:22px}
+.sub{color:var(--muted);font-size:13px;margin-top:2px}
+main{padding:0 28px 40px}
+.kpis{display:flex;gap:12px;flex-wrap:wrap;margin:14px 0}
+.kpi{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:10px 16px;min-width:140px}
+.kpi b{display:block;font-size:20px}.kpi span{color:var(--muted);font-size:12px}
+.tabs{display:flex;gap:6px;border-bottom:1px solid var(--border);margin:8px 0 16px}
+.tab{padding:8px 14px;border:0;background:none;color:var(--muted);cursor:pointer;font:inherit;border-bottom:2px solid transparent}
+.tab.on{color:var(--fg);border-color:var(--joueur);font-weight:600}
+.panel{display:none}.panel.on{display:block}
+.card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px 16px;min-width:0;overflow:hidden}
+.twrap{width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin:0 0 10px}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+svg{width:100%;height:auto;display:block;background:var(--card);border:1px solid var(--border);border-radius:10px}
+.node{cursor:pointer}.node rect.box{fill:var(--card);stroke-width:2}
+.node.sel rect.box{fill:var(--chip)}
+.node text{fill:var(--fg)}.node .m{fill:var(--muted);font-size:11px}
+.edge{fill:none;stroke-width:2;opacity:.8;cursor:pointer}.edge:hover,.edge.sel{stroke-width:4;opacity:1}
+.elab{font-size:11px;fill:var(--fg);paint-order:stroke;stroke:var(--card);stroke-width:4px;pointer-events:none}
+#detail{margin-top:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,560px),1fr));gap:14px}
+.th{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.th h3{margin:0;font-size:15px;overflow-wrap:anywhere}
+.th .note{white-space:nowrap;flex-shrink:0;margin-top:0}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;flex-shrink:0}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}
+.chip{background:var(--chip);border-radius:12px;padding:2px 10px;font-size:12px;max-width:100%;overflow-wrap:anywhere}
+.chip.ok{color:var(--ok)}.chip.warn{color:var(--warn)}.chip.bad{color:var(--bad)}
+table{border-collapse:collapse;width:100%;font-size:12.5px}
+table.tcols{table-layout:fixed;min-width:460px}
+th,td{text-align:left;padding:5px 6px;border-bottom:1px solid var(--border);vertical-align:middle}
+th{color:var(--muted);font-weight:600;cursor:default;white-space:nowrap}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+td.cname{overflow-wrap:anywhere;word-break:break-word}
+td.ctype{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar{height:6px;border-radius:3px;background:var(--chip);width:100%;min-width:40px;overflow:hidden}
+.bar>div{height:100%}
+.mono{font-family:ui-monospace,Menlo,monospace;font-size:11.5px}
+.tools{display:flex;gap:14px;align-items:center;margin:0 0 12px;flex-wrap:wrap}
+input[type=text]{padding:6px 10px;border:1px solid var(--border);border-radius:8px;background:var(--card);color:var(--fg);font:inherit}
+.tag{display:inline-block;font-size:10.5px;border-radius:4px;padding:0 5px;background:var(--chip);color:var(--muted);margin-left:4px;white-space:nowrap}
+.note{color:var(--muted);font-size:12px;margin-top:8px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Plan de la base de données</h1>
+  <div class="sub" id="sub"></div>
+</header>
+<main>
+  <div class="kpis" id="kpis"></div>
+  <div class="tabs">
+    <button class="tab on" data-p="plan">Plan et liens</button>
+    <button class="tab" data-p="tables">Tables</button>
+    <button class="tab" data-p="qualite">Qualité</button>
+  </div>
+
+  <section class="panel on" id="plan">
+    <div class="legend">
+      <span><i style="background:var(--joueur)"></i>Tables joueur</span>
+      <span><i style="background:var(--club)"></i>Tables club</span>
+      <span><i style="background:var(--derivee)"></i>Tables construites</span>
+      <span>Flèche : de la table enfant vers la table parent. Étiquette : % de lignes de l'enfant retrouvées chez le parent.</span>
+      <span><i style="background:var(--ok)"></i>≥ 95 %</span>
+      <span><i style="background:var(--warn)"></i>70–95 %</span>
+      <span><i style="background:var(--bad)"></i>&lt; 70 %</span>
+    </div>
+    <div class="note" style="margin:0 0 10px">À savoir : <span class="mono">team_details</span> est restreinte aux clubs des 10 championnats et les tables joueur sont restreintes aux joueurs du périmètre. Un faible taux vers <span class="mono">team_details</span> (transferts, performances en coupe) ou vers <span class="mono">player_profiles</span> (coéquipiers) traduit donc surtout des clubs ou joueurs hors périmètre, pas forcément une erreur de données.</div>
+    <svg id="svg" viewBox="0 0 1180 760"></svg>
+    <div id="detail" class="card"><span class="note">Cliquez sur une table ou un lien pour voir le détail.</span></div>
+  </section>
+
+  <section class="panel" id="tables">
+    <div class="tools">
+      <input type="text" id="filtre" placeholder="Filtrer une colonne…">
+      <label><input type="checkbox" id="seulManq"> Seulement les colonnes avec valeurs manquantes</label>
+    </div>
+    <div class="grid" id="cartes"></div>
+  </section>
+
+  <section class="panel" id="qualite">
+    <div class="card" style="margin-bottom:14px">
+      <h3 style="margin:0 0 8px">Doublons et clés</h3>
+      <div class="twrap"><table id="tDoublons"></table></div>
+    </div>
+    <div class="card" style="margin-bottom:14px">
+      <h3 style="margin:0 0 8px">Liens entre tables</h3>
+      <div class="twrap"><table id="tLiens"></table></div>
+    </div>
+    <div class="card">
+      <h3 style="margin:0 0 8px">Colonnes avec valeurs manquantes (les plus touchées en premier)</h3>
+      <div class="twrap"><table id="tManq"></table></div>
+    </div>
+  </section>
+</main>
+
+<script>
+const D = __DONNEES__;
+const POS = {
+  player_profiles:[40,330], player_performances:[440,70], player_injuries:[440,185], player_market_value:[440,300],
+  transfer_history:[440,415], player_national_performances:[440,530], player_teammates_played_with:[440,645],
+  team_details:[870,330], team_competitions_seasons:[870,530], perimetre:[870,110], base:[40,620]
+};
+const NW=256, NH=78;
+const col = g => g==='club' ? 'var(--club)' : g==='derivee' ? 'var(--derivee)' : 'var(--joueur)';
+const cls = p => p>=95 ? 'ok' : p>=70 ? 'warn' : 'bad';
+const hex = {ok:'#16a34a',warn:'#d97706',bad:'#dc2626'};
+const fmt = n => n==null ? '–' : Number(n).toLocaleString('fr-FR');
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const T = Object.fromEntries(D.tables.map(t => [t.nom, t]));
+const pm = t => { // % moyen de cellules manquantes
+  const tot = t.lignes * t.nb_colonnes; const m = t.colonnes.reduce((a,c)=>a+c.manquants,0);
+  return tot ? m/tot*100 : 0; };
+
+document.getElementById('sub').textContent =
+  `Généré le ${D.genere_le} – tables nettoyées (10 championnats) et table finale joueur × demi-saison. Tous les chiffres sont calculés par le code.`;
+
+// KPI
+const totLignes = D.tables.reduce((a,t)=>a+t.lignes,0);
+const totDup = D.tables.reduce((a,t)=>a+t.doublons_stricts+(t.doublons_cle||0),0);
+const orph = D.liens.reduce((a,l)=>a+l.lignes_orphelines,0);
+document.getElementById('kpis').innerHTML = [
+  [D.tables.length,'tables'],[fmt(totLignes),'lignes au total'],
+  [D.liens.length,'liens contrôlés'],[fmt(totDup),'doublons (stricts + clé)'],[fmt(orph),'lignes orphelines (tous liens)']
+].map(([v,l])=>`<div class="kpi"><b>${v}</b><span>${l}</span></div>`).join('');
+
+// Onglets
+document.querySelectorAll('.tab').forEach(b => b.onclick = () => {
+  document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on', x===b));
+  document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('on', p.id===b.dataset.p));
+});
+
+// ---------- Plan SVG ----------
+function pointBord(n, tx, ty){
+  const [cx,cy]=[POS[n][0]+NW/2, POS[n][1]+NH/2]; const dx=tx-cx, dy=ty-cy;
+  const s = Math.min(dx? (NW/2)/Math.abs(dx):1e9, dy? (NH/2)/Math.abs(dy):1e9, 1e9);
+  return [cx+dx*s, cy+dy*s];
+}
+const svg = document.getElementById('svg');
+let s = `<defs>${Object.entries(hex).map(([k,c])=>`<marker id="a-${k}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="${c}"/></marker>`).join('')}</defs>`;
+// regroupe les liens par paire pour les écarter
+const paires = {};
+D.liens.forEach((l,i)=>{ const k=[l.enfant,l.parent].sort().join('|'); (paires[k]=paires[k]||[]).push(i); });
+D.liens.forEach((l,i)=>{
+  if(!POS[l.enfant]||!POS[l.parent]) return;
+  const k=[l.enfant,l.parent].sort().join('|'), g=paires[k], idx=g.indexOf(i);
+  const off=(idx-(g.length-1)/2)*34;
+  const [ec,pc]=[[POS[l.enfant][0]+NW/2,POS[l.enfant][1]+NH/2],[POS[l.parent][0]+NW/2,POS[l.parent][1]+NH/2]];
+  const mx=(ec[0]+pc[0])/2, my=(ec[1]+pc[1])/2, dx=pc[0]-ec[0], dy=pc[1]-ec[1], L=Math.hypot(dx,dy)||1;
+  const cx=mx-dy/L*off, cy=my+dx/L*off;
+  const a=pointBord(l.enfant,cx,cy), b=pointBord(l.parent,cx,cy);
+  const c=cls(l.lignes_avec_parent_pct ?? 100);
+  const lx=0.25*a[0]+0.5*cx+0.25*b[0], ly=0.25*a[1]+0.5*cy+0.25*b[1];
+  s += `<path class="edge" data-i="${i}" d="M${a[0]},${a[1]} Q${cx},${cy} ${b[0]},${b[1]}" stroke="${hex[c]}" marker-end="url(#a-${c})"><title>${esc(l.enfant)}.${l.cols_enfant.join('+')} → ${esc(l.parent)}.${l.cols_parent.join('+')} : ${l.lignes_avec_parent_pct}% des lignes ont un parent</title></path>`;
+  s += `<text class="elab" x="${lx}" y="${ly+4}" text-anchor="middle">${l.lignes_avec_parent_pct==null?'–':l.lignes_avec_parent_pct.toFixed(1)+' %'}</text>`;
+});
+D.tables.forEach(t=>{
+  if(!POS[t.nom]) return;
+  const [x,y]=POS[t.nom], p=pm(t), dup=t.doublons_stricts+(t.doublons_cle||0);
+  s += `<g class="node" data-n="${t.nom}"><rect class="box" x="${x}" y="${y}" width="${NW}" height="${NH}" rx="10" stroke="${col(t.groupe)}"/>
+  <text x="${x+12}" y="${y+22}" font-size="13" font-weight="600">${esc(t.nom)}</text>
+  <text class="m" x="${x+12}" y="${y+40}">${fmt(t.lignes)} lignes · ${t.nb_colonnes} col.</text>
+  <text class="m" x="${x+12}" y="${y+56}">manquants ${p.toFixed(1)} % · doublons ${fmt(dup)}</text>
+  <rect x="${x+12}" y="${y+64}" width="${NW-24}" height="5" rx="2.5" fill="var(--chip)"/>
+  <rect x="${x+12}" y="${y+64}" width="${Math.max(1,(NW-24)*Math.min(p,100)/100)}" height="5" rx="2.5" fill="${p<5?hex.ok:p<20?hex.warn:hex.bad}"/></g>`;
+});
+svg.innerHTML = s;
+
+const det = document.getElementById('detail');
+function showTable(n){
+  const t=T[n]; document.querySelectorAll('.node,.edge').forEach(e=>e.classList.remove('sel'));
+  document.querySelector(`.node[data-n="${n}"]`).classList.add('sel');
+  const pire = [...t.colonnes].sort((a,b)=>b.manquants_pct-a.manquants_pct).filter(c=>c.manquants>0).slice(0,5);
+  const liens = D.liens.filter(l=>l.enfant===n||l.parent===n);
+  det.innerHTML = `<h3 style="margin:0 0 4px"><span class="dot" style="background:${col(t.groupe)}"></span>${esc(t.nom)}</h3>
+  <div class="note" style="margin:0 0 8px">${t.grain?'Une ligne = '+esc(t.grain)+'.':''}</div>
+  <div class="chips"><span class="chip">${fmt(t.lignes)} lignes</span><span class="chip">${t.nb_colonnes} colonnes</span>
+  ${t.cle?`<span class="chip ${t.doublons_cle?'bad':'ok'}">clé ${esc(t.cle.join(' + '))} : ${t.doublons_cle?fmt(t.doublons_cle)+' doublons':'unique'}</span>`:'<span class="chip">pas de clé naturelle contrôlée</span>'}
+  <span class="chip ${t.doublons_stricts?'warn':'ok'}">${fmt(t.doublons_stricts)} lignes identiques</span></div>
+  <div><b>Colonnes les plus incomplètes :</b> ${pire.length?pire.map(c=>`<span class="chip mono">${esc(c.nom)} ${c.manquants_pct}%</span>`).join(' '):'aucune valeur manquante'}</div>
+  <div style="margin-top:8px"><b>Liens :</b> ${liens.length?liens.map(l=>`<div class="mono">${esc(l.enfant)}.${l.cols_enfant.join('+')} → ${esc(l.parent)}.${l.cols_parent.join('+')} — <span style="color:${hex[cls(l.lignes_avec_parent_pct??100)]}">${l.lignes_avec_parent_pct}%</span></div>`).join(''):'aucun'}</div>`;
+}
+function showLien(i){
+  const l=D.liens[i]; document.querySelectorAll('.node,.edge').forEach(e=>e.classList.remove('sel'));
+  document.querySelector(`.edge[data-i="${i}"]`).classList.add('sel');
+  det.innerHTML = `<h3 style="margin:0 0 6px">Lien <span class="mono">${esc(l.enfant)}.${l.cols_enfant.join('+')} → ${esc(l.parent)}.${l.cols_parent.join('+')}</span></h3>
+  <div class="chips"><span class="chip ${cls(l.lignes_avec_parent_pct??100)}">${l.lignes_avec_parent_pct}% des lignes de l'enfant ont un parent</span>
+  <span class="chip">${fmt(l.lignes_orphelines)} lignes orphelines</span>
+  <span class="chip">${l.parents_utilises_pct}% des clés du parent sont utilisées par l'enfant</span></div>
+  <div class="note">Lignes orphelines : valeur absente de la table parent. Clés parent utilisées : couverture dans l'autre sens (par exemple, part des joueurs ayant au moins une blessure).</div>`;
+}
+document.querySelectorAll('.node').forEach(e=>e.onclick=()=>showTable(e.dataset.n));
+document.querySelectorAll('.edge').forEach(e=>e.onclick=()=>showLien(+e.dataset.i));
+
+// ---------- Cartes tables ----------
+function cartes(){
+  const f=document.getElementById('filtre').value.toLowerCase(), seul=document.getElementById('seulManq').checked;
+  document.getElementById('cartes').innerHTML = D.tables.map(t=>{
+    const cols=t.colonnes.filter(c=>c.nom.toLowerCase().includes(f)&&(!seul||c.manquants>0));
+    if(!cols.length) return '';
+    const dup=t.doublons_stricts;
+    return `<div class="card"><div class="th"><h3><span class="dot" style="background:${col(t.groupe)}"></span>${esc(t.nom)}</h3><span class="note">${fmt(t.lignes)} lignes</span></div>
+    <div class="note">${t.grain?'Une ligne = '+esc(t.grain):''}</div>
+    <div class="chips">${t.cle?`<span class="chip ${t.doublons_cle?'bad':'ok'}">clé ${esc(t.cle.join(' + '))} ${t.doublons_cle?': '+fmt(t.doublons_cle)+' doublons':'unique'}</span>`:''}
+    <span class="chip ${dup?'warn':'ok'}">${fmt(dup)} lignes identiques</span></div>
+    <div class="twrap"><table class="tcols"><colgroup><col><col style="width:112px"><col style="width:62px"><col style="width:64px"><col style="width:76px"></colgroup>
+    <tr><th>Colonne</th><th>Type</th><th class="n">Manq.</th><th></th><th class="n">Distincts</th></tr>
+    ${cols.map(c=>`<tr><td class="mono cname">${esc(c.nom)}${c.source?` <span class="tag">${esc(c.source)}</span>`:''}</td><td class="mono ctype" title="${esc(c.type)}">${esc(c.type)}</td>
+    <td class="n">${c.manquants_pct}%</td><td><div class="bar"><div style="width:${Math.min(100,c.manquants_pct)}%;background:${c.manquants_pct<5?hex.ok:c.manquants_pct<20?hex.warn:hex.bad}"></div></div></td>
+    <td class="n">${fmt(c.uniques)}</td></tr>`).join('')}</table></div></div>`;
+  }).join('');
+}
+document.getElementById('filtre').oninput=cartes; document.getElementById('seulManq').onchange=cartes; cartes();
+
+// ---------- Qualité ----------
+document.getElementById('tDoublons').innerHTML = `<tr><th>Table</th><th>Clé contrôlée</th><th class="n">Doublons de clé</th><th class="n">Lignes identiques</th><th class="n">Manquants (moy.)</th></tr>` +
+  D.tables.map(t=>`<tr><td class="mono">${esc(t.nom)}</td><td class="mono">${t.cle?esc(t.cle.join(' + ')):'–'}</td>
+  <td class="n" style="color:${t.doublons_cle?hex.bad:'inherit'}">${t.doublons_cle==null?'–':fmt(t.doublons_cle)}</td>
+  <td class="n" style="color:${t.doublons_stricts?hex.warn:'inherit'}">${fmt(t.doublons_stricts)}</td><td class="n">${pm(t).toFixed(1)}%</td></tr>`).join('');
+document.getElementById('tLiens').innerHTML = `<tr><th>Enfant</th><th>Parent</th><th class="n">% lignes avec parent</th><th class="n">Orphelines</th><th class="n">% clés parent utilisées</th></tr>` +
+  D.liens.map(l=>`<tr><td class="mono">${esc(l.enfant)}.${l.cols_enfant.join('+')}</td><td class="mono">${esc(l.parent)}.${l.cols_parent.join('+')}</td>
+  <td class="n" style="color:${hex[cls(l.lignes_avec_parent_pct??100)]}">${l.lignes_avec_parent_pct}%</td><td class="n">${fmt(l.lignes_orphelines)}</td><td class="n">${l.parents_utilises_pct}%</td></tr>`).join('');
+const tous=[]; D.tables.forEach(t=>t.colonnes.forEach(c=>{ if(c.manquants>0) tous.push({t:t.nom,...c}); }));
+tous.sort((a,b)=>b.manquants_pct-a.manquants_pct);
+document.getElementById('tManq').innerHTML = `<tr><th>Table</th><th>Colonne</th><th class="n">Manquants</th><th class="n">%</th><th></th></tr>` +
+  tous.map(c=>`<tr><td class="mono">${esc(c.t)}</td><td class="mono">${esc(c.nom)}</td><td class="n">${fmt(c.manquants)}</td><td class="n">${c.manquants_pct}%</td>
+  <td><div class="bar"><div style="width:${Math.min(100,c.manquants_pct)}%;background:${c.manquants_pct<5?hex.ok:c.manquants_pct<20?hex.warn:hex.bad}"></div></div></td></tr>`).join('') || '<tr><td>Aucune valeur manquante.</td></tr>';
+</script>
+</body>
+</html>
