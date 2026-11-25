@@ -297,6 +297,15 @@ CHAMPIONNATS = {
     "SA1": "Saudi Pro League (Arabie saoudite)",
 }
 
+CHAMPIONNATS_AVEC_D2 = {
+    **CHAMPIONNATS,
+    "GB2": "Championship (Angleterre)",
+    "ES2": "LaLiga2 (Espagne)",
+    "IT2": "Serie B (Italie)",
+    "L2": "2. Bundesliga (Allemagne)",
+    "FR2": "Ligue 2 (France)",
+}
+
 TABLES_PAR_JOUEUR = ["player_profiles", "player_injuries", "player_market_value", "transfer_history",
                      "player_national_performances", "player_teammates_played_with"]
 TABLES_PAR_CLUB = ["team_details", "team_competitions_seasons"]
