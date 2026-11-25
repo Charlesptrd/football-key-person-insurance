@@ -79,7 +79,7 @@ input[type=text]{padding:6px 10px;border:1px solid var(--border);border-radius:8
       <span><i style="background:var(--warn)"></i>70–95 %</span>
       <span><i style="background:var(--bad)"></i>&lt; 70 %</span>
     </div>
-    <div class="note" style="margin:0 0 10px">À savoir : <span class="mono">team_details</span> est restreinte aux clubs des 10 championnats et les tables joueur sont restreintes aux joueurs du périmètre. Un faible taux vers <span class="mono">team_details</span> (transferts, performances en coupe) ou vers <span class="mono">player_profiles</span> (coéquipiers) traduit donc surtout des clubs ou joueurs hors périmètre, pas forcément une erreur de données.</div>
+    <div class="note" style="margin:0 0 10px">À savoir : <span class="mono">team_details</span> est restreinte aux clubs des <span id="nbChamp">15</span> championnats et les tables joueur sont restreintes aux joueurs du périmètre. Un faible taux vers <span class="mono">team_details</span> (transferts, performances en coupe) ou vers <span class="mono">player_profiles</span> (coéquipiers) traduit donc surtout des clubs ou joueurs hors périmètre, pas forcément une erreur de données.</div>
     <svg id="svg" viewBox="0 0 1180 760"></svg>
     <div id="detail" class="card"><span class="note">Cliquez sur une table ou un lien pour voir le détail.</span></div>
   </section>
@@ -126,8 +126,10 @@ const pm = t => { // % moyen de cellules manquantes
   const tot = t.lignes * t.nb_colonnes; const m = t.colonnes.reduce((a,c)=>a+c.manquants,0);
   return tot ? m/tot*100 : 0; };
 
+const nbChamp = D.nb_championnats ?? T.perimetre?.colonnes.find(c => c.nom === 'competition_id')?.uniques ?? 15;
+document.getElementById('nbChamp').textContent = nbChamp;
 document.getElementById('sub').textContent =
-  `Généré le ${D.genere_le} – tables nettoyées (10 championnats) et table finale joueur × demi-saison. Tous les chiffres sont calculés par le code.`;
+  `Généré le ${D.genere_le} – tables nettoyées (${nbChamp} championnats) et table finale joueur × demi-saison. Tous les chiffres sont calculés par le code.`;
 
 // KPI
 const totLignes = D.tables.reduce((a,t)=>a+t.lignes,0);

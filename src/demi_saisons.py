@@ -20,9 +20,9 @@ import numpy as np
 import pandas as pd
 
 try:                                   # import depuis le dossier du projet : from src.demi_saisons import ...
-    from .features import CHAMPIONNATS
+    from .features import CHAMPIONNATS_AVEC_D2
 except ImportError:                    # import avec src/ dans sys.path : from demi_saisons import ...
-    from features import CHAMPIONNATS
+    from features import CHAMPIONNATS_AVEC_D2
 
 # Fin des données : dernière blessure et dernière valeur marchande observées (mi-septembre 2025)
 DATE_EXTRACTION = "2025-09-12"
@@ -81,7 +81,7 @@ def _noms_clubs(etude):
     return noms.str.replace(r"\s*\(\d+\)$", "", regex=True)
 
 
-def construire_demi_saisons(etude, date_extraction=DATE_EXTRACTION):
+def construire_demi_saisons(etude, date_extraction=DATE_EXTRACTION, championnats=CHAMPIONNATS_AVEC_D2):
     """
 
     Une ligne par joueur et par demi-saison couvrant une saison du périmètre :
@@ -148,7 +148,7 @@ def construire_demi_saisons(etude, date_extraction=DATE_EXTRACTION):
     comp_civile = championnat(res["team_id"], s_civile)
     civile = comp_cheval.isna() & comp_civile.notna()
     res["competition_id"] = comp_cheval.fillna(comp_civile)
-    res["championnat"] = res["competition_id"].map(CHAMPIONNATS)
+    res["championnat"] = res["competition_id"].map(championnats)
     res["season_name"] = np.where(civile, s_civile, s_cheval)
     premier_mois = np.where(civile, 1, 7)
     res["moitie"] = np.where(res["debut"].dt.month == premier_mois, 1, 2)

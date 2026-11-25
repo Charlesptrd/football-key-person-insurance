@@ -38,7 +38,7 @@ GRAIN = {
     "player_teammates_played_with": "un joueur × coéquipier",
     "transfer_history": "un transfert",
     "player_injuries": "une blessure",
-    "perimetre": "un joueur × saison × club × compétition (10 championnats)",
+    "perimetre": "un joueur × saison × club × compétition (15 championnats)",
     "base": "un joueur × demi-saison",
 }
 
@@ -118,8 +118,14 @@ def _couverture(enfant, cols_e, parent, cols_p):
 def calculer_plan(etude, base, colonnes_perf=()):
     tables = {nom: df for nom, df in etude.items() if isinstance(df, pd.DataFrame)}
     tables["base"] = base
+    nb_championnats = (int(tables["perimetre"]["competition_id"].nunique())
+                       if "perimetre" in tables and "competition_id" in tables["perimetre"].columns else None)
     stats = [_stats_table(nom, df, CLES.get(nom), colonnes_perf if nom == "base" else ())
              for nom, df in tables.items()]
+    if nb_championnats is not None:
+        for s in stats:
+            if s["nom"] == "perimetre":
+                s["grain"] = f"un joueur × saison × club × compétition ({nb_championnats} championnats)"
     liens, ignores = [], []
     for enf, ce, par, cp in LIENS:
         if enf in tables and par in tables and set(ce) <= set(tables[enf].columns) \
@@ -129,6 +135,7 @@ def calculer_plan(etude, base, colonnes_perf=()):
         else:
             ignores.append(f"{enf}.{ce} -> {par}.{cp}")
     return {"genere_le": datetime.now().strftime("%d/%m/%Y %H:%M"),
+            "nb_championnats": nb_championnats,
             "tables": stats, "liens": liens, "liens_ignores": ignores}
 
 
